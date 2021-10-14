@@ -36,8 +36,8 @@
 <div id="gameMainDiv" 
 style="margin: auto;width: 100%;height: 100%;" class="egret-player " data-entry-class="Main" data-orientation="auto" data-scale-mode="showAll" data-resolution-mode="retina" data-frame-rate="60" data-content-width="960" data-content-height="540" data-show-paint-rect="false" data-multi-fingered="2" data-show-fps="false" data-show-log="false" data-show-fps-style="x:0,y:0,size:10,textColor:0xffffff,bgAlpha:0.5"></div>
 <div class="center" id="panel">
-<div id="info"><div id="nick"></div><div id="balance"></div></div>
-<div id="exit"><a href="#" onclick="return logout();"><img class="hover2" src="exit.jpg"></a></div>
+<div id="info"><div class="inline"><div id="nick"></div><div id="balance"></div></div><div id="cmd"><div id="dm" class="cmd" title="mail" onclick="return showForm('dmForm');"><span class="notification">1</span></div><div id="dp" class="cmd" title="deposit" onclick="return showForm('dpForm');"><span class="notification">1</span></div><div id="wd" class="cmd" title="withdraw" onclick="return showForm('wdForm');"><span class="notification">1</span></div></div></div>
+<div id="exit" title="logout"><a href="#" onclick="return logout();"><img class="hover2" src="exit.jpg"></a></div>
 <a href="#" onclick="return updateState();"><img class="hover2" src="logo.png"></a>
 <br>
 <div id="gameForm">
@@ -53,18 +53,18 @@ style="margin: auto;width: 100%;height: 100%;" class="egret-player " data-entry-
 <small><br>Password:<br></small>
 <input type=password id=loginPasswd value="Password"><br>
 <div id="hint" class="hint">slide to login</div>
-<input type="range" min="1" max="100" value="0" class="slider" id=loginSlider>
+<input type="range" min="1" max="100" value="0" class="slider" id="loginSlider">
 <div class="reset">Forget your password ?
 <br>Click here to reset.<br>
-<a href="#" onclick="return showResetForm();"><img class="hover2" src="reset.png"></a></div>
-<div class="hint"><br>Free registration.<br><a href="#" onclick="return showRegistration();"><img class="hover2" src="register.png"></a></div>
+<a href="#" onclick="return showForm('resetForm');"><img class="hover2" src="reset.png"></a></div>
+<div class="hint"><br>Free registration.<br><a href="#" onclick="return showForm('registerForm');"><img class="hover2" src="register.png"></a></div>
 </form></div>
 <div id="resetForm"><form method=post>
 <small><br>Email:<br></small>
 <input type=text id=resetEmail value="">
 <div class="hint">slide to request password reset</div>
-<input type="range" min="1" max="100" value="0" class="slider" id=resetSlider>
-<div class="hint"><br>Free registration.<br><a href="#" onclick="return showRegistration();"><img class="hover2" src="register.png"></a></div>
+<input type="range" min="1" max="100" value="0" class="slider" id="resetSlider">
+<div class="hint"><br>Free registration.<br><a href="#" onclick="return showForm('registerForm');"><img class="hover2" src="register.png"></a></div>
 </form></div>
 <div id="registerForm"><form method=post>
 <small><br>User name:<br></small>
@@ -83,8 +83,48 @@ style="margin: auto;width: 100%;height: 100%;" class="egret-player " data-entry-
 <br>
 <br>
 <div class="hint">slide to register</div>
-<input type="range" min="1" max="100" value="0" class="slider" id=registerSlider>
+<input type="range" min="1" max="100" value="0" class="slider" id="registerSlider">
 </form></div>
+
+<div id="dmForm"><form method=post>
+<small><br>Your message:<br></small>
+<textarea id="dmText" value=""></textarea>
+<div class="hint">slide to send message</div>
+<input type="range" min="1" max="100" value="0" class="slider" id="dmSlider">
+<div class="history" id="wdHistory">
+Last message:
+<br> -
+</div>
+<br>
+</form></div>
+
+<div id="dpForm"><form method=post>
+<small><br>Deposit date:<br></small>
+<input type="text" id="dpDate" value="" placeholder="DD-MM-YYYY">
+<small><br>Deposit amount:<br></small>
+<input type="number" id="dpAmount" value="" placeholder="0">
+<div class="hint">slide to confirm deposit</div>
+<input type="range" min="1" max="100" value="0" class="slider" id="dpSlider">
+<div class="history" id="dpHistory">
+Last deposit:
+<br> -
+</div>
+<br>
+</form></div>
+
+<div id="wdForm"><form method=post>
+<small><br>Request amount:<br></small>
+<input type="number" id="wdAmount" value="" placeholder="0">
+<div class="hint">slide to request withdraw</div>
+<input type="range" min="1" max="100" value="0" class="slider" id="wdSlider">
+<div class="history" id="wdHistory">
+Last withdraw:
+<br> -
+</div>
+<br>
+</form></div>
+
+
 <div class="copy">
 <br>
 &copy;2021 GOBET - Real Bet<br>
@@ -95,28 +135,3 @@ All Rights Reserved<br>
 </div>
 </body>
 </html>
-<!--
-        mo.PROJ.emitter.on(mo.PROJ.AFTER_CFG, function() {
-            var n = mo.PROJ.srcUrlParam || {};
-            for (var r in n) {
-                var a = n[r];
-                if ("infourl" == r.toLowerCase() && (mo.PROJ.infoUrl = n[r] + ""),
-                "dgt" == r.toLowerCase()) {
-                    var o = parseInt(a);
-                    t.mgr.defaultGameTypeFromURL = isNaN(o) ? -1 : o,
-                    t.mgr.isDgt = -1 != t.mgr.defaultGameTypeFromURL
-                }
-                "currency" == r.toLowerCase() && (t.mgr.currencyFromURL = n[r]),
-                "exiturl" == r.toLowerCase() && (t.mgr.exitUrl = t.mgr.deocdeAndSetExitUrl(n[r])),
-                "mute" == r.toLowerCase() && (mo.PROJ.mute = 1 == Number(n[r])),
-                "rl" == r.toLowerCase() && (mo.PROJ.rl = 1 == Number(n[r])),
-                "externalurl" == r.toLowerCase() && (mo.PROJ.externalurl = t.mgr.deocdeAndSetExitUrl(n[r])),
-                "iswapp" == r.toLowerCase() && (mo.PROJ.isWapp = "1" == n[r]),
-                "wapp_platform" == r.toLowerCase() && (mo.PROJ.wapp_platform = Number(n[r])),
-                "wapp_name" == r.toLowerCase() && (mo.PROJ.wapp_name = n[r]),
-                "wapp_imei" == r.toLowerCase() && (mo.PROJ.wapp_imei = n[r]),
-                "wapp_resolution" == r.toLowerCase() && (mo.PROJ.wapp_resolution = n[r]),
-                "wapp_nettype" == r.toLowerCase() && (mo.PROJ.wapp_netType = Number(n[r])),
-                "wapp_osversion" == r.toLowerCase() && (mo.PROJ.wapp_osVersion = n[r])
-            }
--->

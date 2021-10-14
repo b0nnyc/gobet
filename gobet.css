@@ -16,10 +16,12 @@ body::-webkit-scrollbar { width: 0 !important }
 .hover2:hover { border: 2px solid aqua; opacity: 1;}
 a { text-decoration: none}
 a:visited { text-decoration: none}
-input {padding:4px 2px; border-radius:20px; width:200px;margin:4px 0px}
+textarea {padding:8px 4px; border-radius:10px; width:200px;margin:4px 0px;font-size:14pt;}
+input {padding:4px; border-radius:10px; width:200px;margin:4px 0px}
 input[type=submit]{padding:10px 26px; font-size:14pt;margin-top:20px}
 input[type=range]{padding:10px 26px; font-size:14pt;margin-top:20px;background-image:url(slide.png);background-repeat:no-repeat;background-position: center center}
 
+.inline { display: inline-block;}
 .failed { background-color: red; color: white; font-size:14pt;}
 .error { background-color: yellow; }
 .slider {-webkit-appearance: none; appearance: none; height: 30px;background: #d3d3d3; opacity: 0.7;-webkit-transition: .2s; transition: opacity .2s;}
@@ -38,19 +40,33 @@ color:gray;
 margin:0px 10px;
 text-align:center;
 }
+.notification {background-color:red;color:white;font-size:12pt;font-weight:bold;}
+#cmd {float:right;}
+div.cmd { display: inline-block; font-size: 14pt; padding: 0px 20px; height:100%; vertical-align: top; color: black ! important; width:64px; height:48px; background-repeat: no-repeat; background-position: right;}
 #info {position:fixed;top:10px; left:10px;z-index:1;border-radius: 8px;;padding: 4px 24px; text-align: center;
 -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
 box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);}
 #nick {font-size:12pt;color: #f1e55b;text-shadow: 4px 3px 0 #7A7A7A;}
-#balance { color:#fff;font-size:12pt;}
+#balance { color:yellow;font-weight:bold;font-size:14pt;}
+#dm { background-image: url(dm.png);}
+#dmText { width: 300px; height: 80px; }
+#dp { background-image: url(dp.png);}
+#wd { background-image: url(wd.png);}
 #exit {position:fixed; width:100px;top:10px; right:10px;display:none;z-index:1;-webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0); box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);}
 #gameForm {display:block;}
 #loginForm {display:none;}
 #resetForm {display:none;}
 #registerForm {display:none;}
-#xloadingUi {position:absolute; top:-420px}
+#wdForm {display:none;}
+#dpForm {display:none;}
+#dmForm {display:none;}
 #loadingUi {display:none}
 #gameMainDiv{display:none}
+.history {
+margin-top: 50px;
+min-width: 300px;
+min-height: 100px;
+}
 .body-bg {
 background: url("./loading/loading_2.png") no-repeat top center;
 height: 100%;

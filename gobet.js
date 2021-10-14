@@ -1,4 +1,4 @@
-const _GobetServer = "http://192.168.100.111:3000";
+const _GobetServer = "http://172.104.180.176:3000";
 var auth = "";
 var session = "";
 var timerID = 0;
@@ -134,7 +134,7 @@ function startGame(n) {
 function resetAction() {
 	var el = this;
 	if (el.value > 70) {
-		el = document.getElementById('resetEmail')
+		el = document.getElementById('resetEmail');
 		var login = el.value.trim();
 		if (login == "") {
 			el.className = 'error';
@@ -146,14 +146,14 @@ function resetAction() {
 function registerAction() {
 	var el = this;
 	if (el.value > 70) {
-		el = document.getElementById('regUser')
+		el = document.getElementById('regUser');
 		var login = el.value.trim();
 		if (login == "") {
 			el.className = 'error';
 			el.focus();
 			return
 		}
-		el = document.getElementById('regEmail')
+		el = document.getElementById('regEmail');
 		var login = el.value.trim();
 		if (login == "") {
 			el.className = 'error';
@@ -176,6 +176,49 @@ function registerAction() {
 			return
 		}
 		*/
+	}
+}
+function wdAction() {
+	var el = this;
+	if (el.value > 70) {
+		el = document.getElementById('wdAmount');
+		var amount = el.value.trim();
+		if (amount == "") {
+			el.className = 'error';
+			el.focus();
+			return
+		}
+	}
+}
+function dpAction() {
+	var el = this;
+	if (el.value > 70) {
+		el = document.getElementById('dpDate');
+		var amount = el.value.trim();
+		if (amount == "") {
+			el.className = 'error';
+			el.focus();
+			return
+		}
+		el = document.getElementById('dpAmount');
+		var amount = el.value.trim();
+		if (amount == "") {
+			el.className = 'error';
+			el.focus();
+			return
+		}
+	}
+}
+function dmAction() {
+	var el = this;
+	if (el.value > 70) {
+		el = document.getElementById('dmText')
+		var text = el.value.trim();
+		if (text == "") {
+			el.className = 'error';
+			el.focus();
+			return
+		}
 	}
 }
 function _updatePlayerInfo(ok, err) {
@@ -285,7 +328,7 @@ function logout() {
 	updateState();
 	return false;
 }
-function showRegistration() {
+function hideAllForm() {
 	var el = document.getElementById('loginForm');
 	el.style.display = 'none';
 	el = document.getElementById('resetForm');
@@ -293,28 +336,25 @@ function showRegistration() {
 	el = document.getElementById('gameForm');
 	el.style.display = 'none';
 	el = document.getElementById('registerForm');
-	el.style.display = 'block';
+	el.style.display = 'none';
+	el = document.getElementById('wdForm');
+	el.style.display = 'none';
+	el = document.getElementById('dpForm');
+	el.style.display = 'none';
+	el = document.getElementById('dmForm');
+	el.style.display = 'none';
 }
-function showResetForm() {
-	var el = document.getElementById('loginForm');
-	el.style.display = 'none';
-	el = document.getElementById('registerForm');
-	el.style.display = 'none';
-	el = document.getElementById('gameForm');
-	el.style.display = 'none';
-	el = document.getElementById('resetForm');
+function showForm(formName) {
+	hideAllForm();
+	var el = document.getElementById(formName);
 	el.style.display = 'block';
+	return false;
 }
 function updateState() {
+	hideAllForm();
 	var el = document.getElementById('exit');
 	el.style.display = 'none';
 	el = document.getElementById('info');
-	el.style.display = 'none';
-	el = document.getElementById('loginForm');
-	el.style.display = 'none';
-	el = document.getElementById('registerForm');
-	el.style.display = 'none';
-	el = document.getElementById('resetForm');
 	el.style.display = 'none';
 	el = document.getElementById('gameForm');
 	el.style.display = 'block';
@@ -344,6 +384,12 @@ window.onload = function() {
 	el.addEventListener('change', registerAction);
 	el = document.getElementById('resetSlider');
 	el.addEventListener('change', resetAction);
+	el = document.getElementById('dmSlider');
+	el.addEventListener('change', dmAction);
+	el = document.getElementById('dpSlider');
+	el.addEventListener('change', dpAction);
+	el = document.getElementById('wdSlider');
+	el.addEventListener('change', wdAction);
 	updateState();
 	if( typeof mo != 'undefined') {
 		//LD.setPortraitMode( mo.PROJ.portraitMode )
