@@ -1,0 +1,122 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no,minimal-ui">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="full-screen" content="true">
+<meta name="screen-orientation" content="landscape">
+<meta name="”renderer”" content="”webkit”">
+<meta name="360-fullscreen" content="true">
+<meta name="x5-fullscreen" content="true">
+<meta name="browsermode" content="application">
+<meta name="x5-page-mode" content="app">
+<meta http-equiv="x-ua-compatible" content="IE=edge">
+<meta name="msapplication-tap-highlight" content="no">
+<link id="titleIco" rel="icon" href="favicon.ico" type="image/x-icon">
+<link id="shortcutIco" rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="gobet.css"/>
+<title>GOBET - REAL BET</title>
+<script src="md5.min.js"></script>
+<script src="code/fede89553ee7e37e38672ffe600e69f7.min.js"></script>
+<script src="code/a380222aafda7fbe9242334d67500be7.min.js"></script>
+<script src="code/04461cdd7ff7d904718438acbd42e554.min.js"></script>
+<script src="code/a64635865be51243fd4d887d596c9b5f.min.js"></script>
+<script src="code/2cf1e11bde8609780dd770ec7e818e02.min.js"></script>
+<script src="code/d10a50e49ea93b3e3b0f76c9a618ee60.min.js"></script>
+<script src="code/894ef184b380691a90ddc92602bc7240.min.js"></script>
+<script src="gobet.js"></script>
+</head>
+<body>
+<div class="h5c-loading game_100220 app-loading-100021" id="loadingUi">
+<img id="loading-logo" style="visibility: hidden" />
+<div class="h5-loading-container" style="display: block;"><div class="loading-progress"><div class="loading-progress-bar"><div class="loading-progress-finish" id='loadingBar'></div><div class="text_100220"><p class="white" id='loadingBarText'>0%</p></div></div></div></div></div>
+<div id="gameMainDiv" 
+style="margin: auto;width: 100%;height: 100%;" class="egret-player " data-entry-class="Main" data-orientation="auto" data-scale-mode="showAll" data-resolution-mode="retina" data-frame-rate="60" data-content-width="960" data-content-height="540" data-show-paint-rect="false" data-multi-fingered="2" data-show-fps="false" data-show-log="false" data-show-fps-style="x:0,y:0,size:10,textColor:0xffffff,bgAlpha:0.5"></div>
+<div class="center" id="panel">
+<div id="info"><div id="nick"></div><div id="balance"></div></div>
+<div id="exit"><a href="#" onclick="return logout();"><img class="hover2" src="exit.jpg"></a></div>
+<a href="#" onclick="return updateState();"><img class="hover2" src="logo.png"></a>
+<br>
+<div id="gameForm">
+<a href="#" onclick="return startGame(1);"><img class="hover" src="baccarat.jpg"></a>
+<a href="#" onclick="return startGame(2);"><img class="hover" src="dragontiger.jpg"></a>
+<a href="#" onclick="return startGame(3);"><img class="hover" src="roulette.jpg"></a>
+<a href="#" onclick="return startGame(8);"><img class="hover" src="bullbull.jpg"></a>
+<a href="#" onclick="return startGame(4);"><img class="hover" src="sicbo.jpg"></a>
+<a href="#" onclick="return startGame(0);"><img class="hover" src="multitable.jpg"></a></div>
+<div id="loginForm"><form method=post>
+<small><br>User name:<br></small>
+<input type=text id=loginUser value="Player1" maxlength=16>
+<small><br>Password:<br></small>
+<input type=password id=loginPasswd value="Password"><br>
+<div id="hint" class="hint">slide to login</div>
+<input type="range" min="1" max="100" value="0" class="slider" id=loginSlider>
+<div class="reset">Forget your password ?
+<br>Click here to reset.<br>
+<a href="#" onclick="return showResetForm();"><img class="hover2" src="reset.png"></a></div>
+<div class="hint"><br>Free registration.<br><a href="#" onclick="return showRegistration();"><img class="hover2" src="register.png"></a></div>
+</form></div>
+<div id="resetForm"><form method=post>
+<small><br>Email:<br></small>
+<input type=text id=resetEmail value="">
+<div class="hint">slide to request password reset</div>
+<input type="range" min="1" max="100" value="0" class="slider" id=resetSlider>
+<div class="hint"><br>Free registration.<br><a href="#" onclick="return showRegistration();"><img class="hover2" src="register.png"></a></div>
+</form></div>
+<div id="registerForm"><form method=post>
+<small><br>User name:<br></small>
+<input type=text id=regUser value="" maxlength=16>
+<small><br>Email:<br></small>
+<div class="hint">to receive your access code</div>
+<input type=text id=regEmail value="">
+<!-- 
+<div class="hint2">Optional contact methods:
+<div class="hint">Telegram:</div>
+<input type=text id=regTgphone value="">
+<div class="hint">Whatsapp:</div>
+<input type=text id=regWaphone value=""><br>
+</div>
+-->
+<br>
+<br>
+<div class="hint">slide to register</div>
+<input type="range" min="1" max="100" value="0" class="slider" id=registerSlider>
+</form></div>
+<div class="copy">
+<br>
+&copy;2021 GOBET - Real Bet<br>
+All Rights Reserved<br>
+<br><b>DISCLAIMER:</b>This service is provided <b>"AS-IS"</b>. Please comply with and <b>ONLY</b> use it as permitted by your local regulations.<br>
+<br>
+</div>
+</div>
+</body>
+</html>
+<!--
+        mo.PROJ.emitter.on(mo.PROJ.AFTER_CFG, function() {
+            var n = mo.PROJ.srcUrlParam || {};
+            for (var r in n) {
+                var a = n[r];
+                if ("infourl" == r.toLowerCase() && (mo.PROJ.infoUrl = n[r] + ""),
+                "dgt" == r.toLowerCase()) {
+                    var o = parseInt(a);
+                    t.mgr.defaultGameTypeFromURL = isNaN(o) ? -1 : o,
+                    t.mgr.isDgt = -1 != t.mgr.defaultGameTypeFromURL
+                }
+                "currency" == r.toLowerCase() && (t.mgr.currencyFromURL = n[r]),
+                "exiturl" == r.toLowerCase() && (t.mgr.exitUrl = t.mgr.deocdeAndSetExitUrl(n[r])),
+                "mute" == r.toLowerCase() && (mo.PROJ.mute = 1 == Number(n[r])),
+                "rl" == r.toLowerCase() && (mo.PROJ.rl = 1 == Number(n[r])),
+                "externalurl" == r.toLowerCase() && (mo.PROJ.externalurl = t.mgr.deocdeAndSetExitUrl(n[r])),
+                "iswapp" == r.toLowerCase() && (mo.PROJ.isWapp = "1" == n[r]),
+                "wapp_platform" == r.toLowerCase() && (mo.PROJ.wapp_platform = Number(n[r])),
+                "wapp_name" == r.toLowerCase() && (mo.PROJ.wapp_name = n[r]),
+                "wapp_imei" == r.toLowerCase() && (mo.PROJ.wapp_imei = n[r]),
+                "wapp_resolution" == r.toLowerCase() && (mo.PROJ.wapp_resolution = n[r]),
+                "wapp_nettype" == r.toLowerCase() && (mo.PROJ.wapp_netType = Number(n[r])),
+                "wapp_osversion" == r.toLowerCase() && (mo.PROJ.wapp_osVersion = n[r])
+            }
+-->
