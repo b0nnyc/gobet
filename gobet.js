@@ -1,4 +1,4 @@
-const _GobetServer = "http://172.104.180.176:3000";
+const _GobetServer = "https://172.104.180.176:3300";
 var auth = "";
 var session = "";
 var timerID = 0;
