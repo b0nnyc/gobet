@@ -1,0 +1,2364 @@
+code,印度尼西亚 Indonesian
+code:string,in_id:string
+g_version,1628256406114
+g_room_closed,Kamar akan ditutup
+g_room_list_empty,Kamar tidak tersedia
+g_warning_set_chips,Anda belum menentukan jumlah chip
+g_person,orang
+g_warning_visitors,Fungsi ini hanya untuk pengguna terdaftar
+g_visitors,Pengunjung
+g_baccarat,Baccarat
+g_sic_bo,Sic-Bo
+g_roulette,Roulette
+g_dragon_tiger,Naga Harimau
+g_round,Ronde
+g_round_no,No. Ronde
+g_tie,Seri
+g_shuffling,Kocok Kartu
+g_odd,Gjl
+g_even,Gnp
+g_big,Bsr
+g_small,Kcl
+g_pair,Pair
+g_dealer,Dealer
+g_bet_began,Berhenti taruhan
+g_bet_limit,Batas
+g_room,Kamar
+g_wait_payout,Perhitungan akhir
+g_cancel,Batal
+g_wait_1,Menunggu
+g_custom,Kustom
+g_name,Nama
+g_first_col,Kolom Pertama
+g_second_col,Kolom Kedua
+g_third_col,Kolom Ketiga
+g_zero,Nol
+g_total_bet,Total taruhan
+g_Red_Black,Merah/Hitam
+g_waiting,Menunggu
+g_open_card,Buka kartu
+g_video_loading,Menghubungkan video
+g_seat_tip,Anda duduk di kursi nomor %s
+baccarat_micard,Tekan Kartu
+baccarat_no_commission,Tanpa Komisi
+mto_player_side,PEMAIN
+mto_banker_side,BANKER
+mto_tie_side,SERI
+mto_banker_pair,"BANKER
+PAIR"
+mto_player_pair,"PEMAIN
+PAIR"
+baccarat_player_side,Pemain
+baccarat_banker_side,Banker
+baccarat_super6,"Banker 6 poin, bayar 0,5"
+bacc_warning_player_not_enough,"Saldo Pemain tidak cukup, maksimum taruhan
+ %s"
+bacc_warning_banker_not_enough,"Saldo Banker tidak cukup, maksimum taruhan
+ %s"
+bacc_warning_bet_first,Silahkan menaruh taruhan
+bacc_bet_success,Taruhan Berhasil
+bacc_bet_failed,Taruhan Gagal
+g_bet_time_out,Waktu taruhan habis
+bacc_place_your_bet,Pasang taruhanmu sekarang
+bacc_warning_maxium_length,Silahkan masukkan maksimal 9 digit angka dan minimal satu desimal
+bacc_warning_payouting,"Pembayaran ronde sebelumnya dalam proses, mohon menunggu…"
+bacc_squeezing,Buka Kartu
+bacc_mi_table_limit,Batas Meja
+bacc_mi_banker_limit,Saldo B
+bacc_mi_player_limit,Saldo P
+bacc_mi_add_time,Tambahan %s detik
+bacc_mi_apply,Terapkan
+bacc_mi_open_all,Buka semua
+bacc_mi_dealer_open_card,Klik pada kartu untuk membiarkan dealer membuka kartu.
+bacc_mi_owner_open_card,Anda adalah Pemilik di ronde ini
+bacc_mi_has_add_time,Waktu tambahan
+bacc_mi_someone_add_time,%s minta tambahan waktu
+bacc_mi_wait_owner,Menunggu tangan
+bacc_mi_player_owner,Tangan Pemain
+bacc_mi_banker_owner,Tangan Banker
+bacc_mi_owner,Pemilik
+bacc_mi_owner_leave,Meninggalkan kamar
+bacc_mi_chips,Chip
+bacc_click_begin_any_area,Buka kartu dari sisi manapun
+roadmap_big_road,Big Rd
+roadmap_bead_road,Bead Rd
+roadmap_bigeye_road,Big Eye Rd
+roadmap_small_road,Small Rd
+roadmap_cockroach_road,Cockroach Rd
+probe_banker,Banker
+probe_player,Pemain
+dt_dragon,Naga
+dt_tiger,Harimau
+dt_probe_dragon,Dragon road
+dt_probe_tiger,Tiger road
+sicbo_any_triple,Triple
+sicbo_all_triple,Setiap triple
+sicbo_sum,Jumlah
+g_odd_even,Ganjil/Genap
+g_big_small,Besar/Kecil
+sicbo_dice,Dadu
+g_bet_now,Taruhan
+sicbo_single,Single
+sicbo_double,Double
+sicbo_triple,Triple
+g_play_video,Tonton video
+g_switch_play,Ganti Mode
+g_back_bet,Kembali
+g_prev_step,Sebelum
+sicbo_together,Kombinasi dua dadu
+roulette_red,Merah
+roulette_black,Hitam
+roulette_1dozen,Dozen pertama
+roulette_2dozen,Dozen kedua
+roulette_3dozen,Dozen ketiga
+roulette_ratio,Rasio
+roulette_history,Sejarah
+roulette_hot,Populer
+roulette_wait_payout,Menunggu pembayaran
+roulette_payout_result,Hasil Permainan
+roulette_direct,Straight up
+roulette_split,Split bet
+roulette_street,Street bet
+roulette_corner,Corner Bet
+roulette_three,Trio bet
+roulette_four,4 nomor
+roulette_line,Line bet
+roulette_column,Kolom
+roulette_dozen,Lusin
+g_bet,Taruhan
+g_payout,Pembayaran
+g_rollin,Masukkan
+g_rollout,Keluarkan
+history_betting_bonus,Bonus Taruhan
+history_baborat,Baborat
+history_tips,Tip
+history_asset_detail,Detail Aset
+history_payout_records,Catatan Pembayaran
+history_transaction_records,Catatan Transaksi
+g_today,Hari ini
+hisory_3day,3 hari terakhir
+hisory_2week,2 minggu terakhir
+g_date,Tanggal
+g_game,Pemainan
+g_bet_title,Taruhan
+g_result,Hasil
+history_thing_type,Tipe
+history_round_no,Nomor
+g_amount,Kredit
+history_after,Saldo
+history_no_history,Tidak ada catatan tersedia
+g_enter_lobby,Lobi
+history_all_win,Bonus kemenangan beruntun
+history_load_more,Tarik untuk memuat lebih banyak
+g_ok_text,Konfirmasi
+g_tips_text,Tips
+main_title1,MultiPlay
+main_title2,Main sekarang
+main_title3,Hotline VIP
+main_title4,Lobi
+main_title5,Rangking
+mian_title6,Catatan/Kredit
+main_info1,"Bertaruh lebih banyak, menang lebih besar"
+main_info2,Permainan terbaik hari ini
+main_info3,Layanan 24 jam sehari
+main_info4,Pilihan lengkap permainan
+main_info6,"Semoga beruntung, Bos"
+lobby_info1,Pembayaran dalam dua minggu terakhir
+lobby_info2,Jumlah pembayaran hari ini
+topbar_setting_userinfo,Profil
+topbar_setting_todayrank,Daftar peringkat
+topbar_setting_gamenotice,Syarat dan Ketentuan
+topbar_setting_logout,Keluar permainan
+topbar_setting_systemsetting,Pengaturan
+topbar_setting_gamehelp,Bantuan
+topbar_setting_soundon,Suara Hidup
+topbar_setting_soundoff,Suara Mati
+worldmsg_title,Pesan Dunia
+rank_title1,Rangking
+rank_title2,Nama
+rank_title3,Durasi permainan
+rank_tips,"Leaderboard akan diperbarui setiap 1 jam sekali, dan semua pembayaran akan dihitung ulang jam 00:00"
+rank_tips1,Daftar akan diperbarui setelah jam 01:00
+rank_tips2,Rangking pemain tidak tersedia
+chat_send,Kirim
+chat_please_input,Masukkan pertanyaan Anda…
+chat_please_input2,Masukkan…
+chat_hold_say,Tekan dan tahan untuk bicara
+chat_moveup_del,Geser ke atas untuk membatalkan
+chat_loose_del,Jari terlepas dan dibatalkan
+chat_voice_tooshort,Pesan suara terlalu pendek
+voice_translating,Menerjemahkan sekarang
+voice_init,Pesan suara akan secara otomatis dikonversi menjadi teks
+chat_loose_send,Lepaskan untuk kirim
+chat_tip,Tip %s chip
+chat_accessmic,Mohon izinkan penggunaan mikrofon dalam pengaturan telepon genggam
+chat_tip_visitor,Chat hanya tersedia untuk pengguna
+chat_system_title,Sistem
+video_guide,Video Tutorial
+rule_sicbo_title,Peraturan Sic-Bo
+rule_sicbo_page1_text1,"1. Terdapat tiga Sic-Bo, Pemain memasang taruhan pada beberapa area dalam meja dalam waktu yang telah ditentukan.
+ 2. Setelah waktu taruhan berakhir, 3 dadu akan dikocok dan hasil permainan akan ditentukan dari jumlah angka pada permukaan dadu.
+ 3. Jika terdapat dadu yang bertumpuk atau miring sehingga tidak bisa melihat hasil dengan jelas, ronde tersebut tidak sah, dealer akan mengocok ulang dadu sampai hasil bisa dilihat dengan jelas.
+ 4. Ketika hasil dari permainan berupa triple, taruhan besar, kecil, ganjil, atau genap akan kalah."
+rule_sicbo_page1_text1_1,"1. Terdapat tiga Sic-Bo, Pemain memasang taruhan pada beberapa area dalam meja dalam waktu yang telah ditentukan."
+rule_sicbo_page1_text1_2,"2. Setelah waktu taruhan berakhir, 3 dadu akan dikocok dan hasil permainan akan ditentukan dari jumlah angka pada permukaan dadu."
+rule_sicbo_page1_text1_3,"3. Jika terdapat dadu yang bertumpuk atau miring sehingga tidak bisa melihat hasil dengan jelas, ronde tersebut tidak sah, dealer akan mengocok ulang dadu sampai hasil bisa dilihat dengan jelas."
+rule_sicbo_page1_text1_4,"4. Saat hasil game muncul triple semua, taruhan (besar / kecil) atau (tunggal / ganda) dianggap kalah."
+rule_sicbo_page2_text1,Grafik tipe taruhan
+rule_sicbo_page2_text2,Kombinasi 2 dadu
+rule_sicbo_page2_text3,2 Dadu Pair
+rule_sicbo_page2_text5,2 Dadu Sama
+rule_sicbo_page2_text6,3 Dadu Berbeda
+g_payout_list,Diagram pembayaran
+g_bet_item,Barang taruhan
+g_introductions,Instruksi
+rule_sicbo_page3_text1,Papan peluang
+g_total_sum,Total poin
+rule_sicbo_page3_text2,4 atau 17
+rule_sicbo_page3_text3,5 atau 16
+rule_sicbo_page3_text4,6 atau 15
+rule_sicbo_page3_text5,7 atau 14
+rule_sicbo_page3_text6,8 atau 13
+rule_sicbo_page3_text7,9 atau 12
+rule_sicbo_page3_text8,Total poin adalah 4-10
+rule_sicbo_page3_text9,Total poin adalah 11-17
+rule_sicbo_page3_text10,"Total poin adalah 5, 7, 9, 11, 13, 15, 17"
+rule_sicbo_page3_text11,"Total poin adalah 4, 6, 8, 10, 12, 14, 16"
+rule_sicbo_page3_text12,Total poin adalah 4 atau 17
+rule_sicbo_page3_text13,Total poin adalah 5 atau 16
+rule_sicbo_page3_text14,Total poin adalah 6 atau 15
+rule_sicbo_page3_text15,Total poin adalah 7 atau 14
+rule_sicbo_page3_text16,Total poin adalah 8 atau 13
+rule_sicbo_page3_text17,"Total poin adalah 9, 10, 11 atau 12"
+rule_roul_page2_text1,Aturan permainan
+rule_roul_page4_text1,Straight up
+rule_roul_page4_text2,Split bet
+rule_roul_page4_text3,Street bet
+rule_roul_page4_text4,Trio bet
+rule_roul_page4_text5,Corner Bet
+rule_roul_page4_text6,4 nomor
+rule_roul_page5_text1,Line bet
+rule_roul_page5_text2,Kolom
+rule_roul_page5_text3,Lusin
+rule_roul_page5_text4,Merah/Hitam
+rule_roul_page5_text5,Ganjil/Genap
+rule_roul_page5_text6,Besar/Kecil
+g_betLimit,%s Batas taruhan: %s sampai %s
+g_gold_not_enough,Saldo anda tidak cukup
+multi_history_more,Catatan pembayaran
+multi_history_you_win,Selamat! Anda memenangkan %s
+g_banker_pair_sim,Banker Pair
+g_player_pair_sim,Pemain Pair
+bet_history_video_downloading,Video sedang diunduh
+lobby_login_btn_trial,Ujicoba
+lobby_login_btn_register,Registrasi
+lobby_login_btn_login,Login
+lobby_login_btn_service,Hubungi layanan pelanggan
+lobby_login_title_account,Akun
+lobby_login_title_password,Kata sandi
+lobby_login_warning_logout_btn,Keluar sekarang
+lobby_login_warning_logout_title,Kembali ke login
+lobby_login_warning_logout,Apakah anda yakin untuk keluar?
+lobby_login_warning_password_wrong,"Nama pengguna atau kata sandi salah, Anda masih memiliki %d kesempatan"
+login_powerd_by,Powered By
+login_game,Login
+login_gesture_tip,"Gesture salah, Anda masih dapat mencoba %d kali"
+g_warning_account_locked,Akun anda telah dikunci
+g_warning_invalid_token,"Akun dan kata sandi anda telah kadaluarsa karena tidak aktif dalam waktu lama, silahkan login ulang"
+g_warning_login_wrong_confirm,Saya Mengerti
+g_warning_ip_blocked,"Maaf, permainan ini tidak tersedia di lokasi Anda. Untuk keterangan lebih lanjut, silahkan hubungi pelayanan pelanggan, terima kasih"
+user_info_sketchmap,"Pada bagan ini, Anda bisa lihat taruhan sebelumnya"
+user_info_bet_types,Jenis taruhan
+user_info_bet_count,Jumlah Taruhan
+user_info_payout_count,Jumlah Payout
+user_info_nick_name,Nama Panggilan
+user_info_update,Ubah
+user_info_online,Durasi online
+user_info_best_ranking,Peringkat terbaik
+user_info_bets_today,Taruhan hari ini
+user_info_two_week,Taruhan sah 2 minggu terakhir
+user_info_name_max,"Nama tidak bisa lebih dari 7 huruf, silahkan diubah"
+user_info_name_null,Nama tidak boleh kosong
+user_repeat_name,Nama telah dipakai
+user_info_updated,Modifikasi Berhasil
+lan_select_title,Bahasa
+setting_language,Pilih bahasa
+setting_music,Musik
+setting_sound,Suara
+setting_enable_gesture,Aktifkan Gesture Lock
+setting_enable_touchid,Tekan untuk mengaktifkan Touch ID
+setting_change_gesture,Ganti Gesture Anda
+setting_gesture_lock,Kunci Gesture
+setting_gesture_set_gesture,Atur Gesture
+setting_gesture_login_touch_id,Login dengan Touch ID
+check_finger_title,Verifikasi Touch ID
+g_not_device,Fitur ini tidak didukung pada perangkatan Anda
+g_not_open_finger,"Touch ID belum diaktifkan, harap diaktifkan pengaturan Touch ID"
+input_gesture,Masukkan gesture untuk membuka
+gesture_repeat,Ulang
+gesture_continue,Lanjut
+gesture_num_tip,Silahkan hubungkan setidaknya empat titik
+gesture_error_tip,"Gesture salah, harap coba ulang"
+multi_desk_guide_tip,Scroll untuk memilih lebih banyak meja
+g_player_simple,P
+g_banker_simple,B
+g_tie_simple,TIE
+roomlimit_min_bet,Min Taruhan
+roomlimit_max_bet,Maks Taruhan
+payout_natural_winner,Berbakat Pemenang
+payout_tip,Pembayaran
+warning_exit_game,Apakah anda mau keluar?
+warning_words_empty,Pesan tidak boleh kosong
+warning_exchange_language,Ganti bahasa sekarang?
+warning_quite_account,Yakin untuk keluar dari akun ini?
+g_single_num,Nomor Tunggal
+main_menu_dealer_name,Dealer: %s
+main_menu_current_players,Pemain saat ini: %s
+main_menu_once_max_payout,Pembayaran terbesar: %s
+g_warning_network_error,"Koneksi jaringan tidak tersedia, silahkan cek pengaturan anda"
+g_relogin,Login ulang
+g_warning_network_error_title,Koneksi gagal
+g_warning_server_unavailable,"Server sedang dalam pemeliharaan, silahkan coba ulang setelah beberapa saat"
+bacc_match_chip,Chip untuk masuk
+bacc_match_current_ranking,Rangking
+g_no_ranking,Tidak ada
+g_join_match,Klik untuk bergabung
+g_match_round,Ronde
+bacc_match_ask_join,"Pertandingan Baccarat sedang dimulai, Anda mau bergabung?"
+bacc_match_not_gold,"Ketika pertandingan dimulai, saldo Anda akan dibekukan untuk sementara. Silahkan cek halaman Turnamen untuk keterangan lebih lanjut."
+g_watch_game,Lihat pertandingan
+g_join_game,Ikut Pertandingan
+g_start_time,Waktu mulai
+g_user_name,Akun
+g_balance,Saldo
+g_matched,Telah dipromosikan
+g_no_match,Masih belum masuk
+bacc_match_ranking_not_begin,Permainan ini belum di-rangking
+bacc_match_no_ranking,Tidak ada peringkat
+g_rollback,Telah dikembalikan
+roadmap_triple,T
+roadmap_small,Kcl
+roadmap_big,Bsr
+get_video_playback,Sedang mengakses pemutaran ulang video
+g_year,Tahun
+g_month,Bulan
+g_day,Hari
+g_server_maintenance,"Server akan segera melakukan pemeliharaan, kami mohon maaf atas ketidaknyamananya."
+g_server_maintenance_now,"Dalam proses pemeliharaan server, mohon maaf atas ketidaknyamanan Anda."
+g_server_maintenance_login,"Server akan segera melakukan pemeliharaan, kami mohon maaf atas ketidaknyamananya."
+g_login_conflict,"Akun Anda pada %s login di sistem %s, kata sandi tidak aman jika bukan Anda, hubungi layanan pelanggan untuk keterangan lebih lanjut."
+g_server_maintenance_title,Sistem dalam pemeliharaan
+g_warning_connection_server_failed,"Koneksi server gagal, harap coba ulang."
+device_type_unknow,Tak dikenal
+user_all_bet,Pasang semuanya
+user_no_chat,Fungsi chat tersedia setelah memasang taruhan
+user_no_continuitychat,Harap jangan kirim pesan terus-menerus
+warning_least_chip,Pilih enam chip utama
+warning_no_enough_double,Saldo tidak cukup untuk menggandakan taruhan
+warning_wrongful_name,Nama tidak sah
+warning_tourist_account_no_use,Fitur ini tidak tersedia untuk akun tamu
+warning_error_time_to_try,"Akun atau kata sandi salah, anda masih memiliki %s kali percobaan"
+warning_download_good_experience,Unduh file utama untuk masuk ke casino. File utama didesain khusus untuk tiap bagian untuk mengurangi jumlah unduhan
+warning_overtime_operation,"Waktu habis, silahkan sambung ulang"
+warning_watch_asset_details,"Terdapat gangguan jaringan, silahkan cek saldo anda di Detil Aset"
+user_total_bet,Total taruhan
+g_multi_table,Multi-meja
+g_room_detail,Detail Kamar
+add_time,Tambahan 10 detik
+tokenExpired,Verifikasi gagal
+bet_edit,Ubah
+double_chip,Ganda
+g_activity,Kegiatan
+today_profit,Kemenangan hari ini
+invalidUser,Akun tidak sah
+need_bet_for_no_out,"Anda belum menaruh taruhan dalam 3 ronde, silahkan taruh taruhan
+ di 2 ronde berikut atau Anda akan keluar secara otomatis"
+no_bet_to_out,Kini anda telah keluar
+fast_join_room,Masuk ke kamar sebelumnya
+balance_before,Saldo sebelum
+balance_after,Saldo setelah
+game_details,Detail
+setting_gesture_desc,Aktifkan Gesture Lock untuk masuk secara langusng
+g_bet_plan,Pilihan
+roulette_page_num,Nomor sisi
+g_least_chip,Chip yang rutin digunakan
+sicbo_hot_sum,Nomor sering
+sicbo_cold_sum,Nomor langka
+int_max9,Silahkan masukkan maksimal 9 digit angka
+g_is_open,Aktif
+g_not_open,Nonaktif
+txt_zh_cn,Bahasa China Sederhana
+txt_en_us,Bahasa Inggris
+txt_zh_tw,Bahasa China Tradisional (Taiwan)
+txt_ms_my,Bahasa Melayu
+txt_vi_vn,Bahasa Vietnam
+txt_ko_kr,Bahasa Korea
+txt_ja_jp,Bahasa Jepang
+txt_in_id,Bahasa Indonesia
+txt_th_th,Thailand
+txt_zh_hk,Bahasa China Tradisional (Hongkong)
+topbar_setting_sound,Pengaturan Suara
+g_select_limit,Pilih batas taruhan
+g_out_of_limit,Silahkan bertaruh sesuai dengan batas taruhan yang berlaku
+user_no_chat_1,Chat aktif setelah memasang taruhan
+user_no_null,Pesan tidak boleh kosong
+chat_enter,Masuk ke permainan
+help7_1,"Pemain dapat mengatur Pengaturan Taruhan Rutin hingga enam kombinasi taruhan. Setelah pengaturan taruhan disimpan, pemain dapat bertaruh menggunakan salah satu dari enam kombinasi taruhan."
+help7_2,Ubah Pengaturan Taruhan
+help6_1,Pemain juga dapat memasang taruhan sampingan pada roda roulette kecil.
+plan_save,Simpan
+back_to_watch_video,"Anda di dalam kamar permainan, Anda akan kembali ke lobi bila ingin melihat video ulang, melihat sekarang?"
+g_addMoney,Deposit
+g_getMoney,Penarikan
+bacc_match,Turnamen Baccarat
+g_backMoney,Pembayaran kembali
+bacc_mi_open,Klik untuk membuka kartu
+bacc_mi_edge,Geser sisi manapun untuk mengintip
+bacc_mi_master_open_card,Dealer menunjukkan kartu
+g_bet_plan_change,"Pengaturan taruhan Anda belum disimpan, keluar sekarang?"
+act_msg,Selamat! Anda menerima hadiah taruhan sebesar %s!
+g_bet_plan_save_complete,Berhasil disimpan
+gamenotice_deal,Perjanjian pengguna
+long_banker,Datanglah seorang long bankers
+chat_waving,"Cantik, lambaikan tanganmu~!"
+chat_give_kiss,"Hai Cewe, cium aku ~!"
+chat_ask_name,"Cantik, siapa namamu?"
+chat_popular_cuties,"Gadis cantik ini benar-benar membawa keberuntungan, apapun yang saya harapkan pasti keluar~ haha!"
+chat_little_girl,Gadis cantik ~kamu keren~ Aku suka~!
+chat_easy_win,"Mudah untuk menang, kamu luar biasa, cantik!"
+g_dragon_bet,D
+g_tiger_bet,T
+g_view_error,"Pemutaran video salah, hubungi pelayanan pelanggan"
+g_no_money_to_match,Saldo tidak cukup
+g_wait_roading,"Sedang membuka jalur, harap menunggu"
+g_join_match_to_battle,"Anda telah bergabung dalam pertandingan ini, ayo semangat!"
+g_watch_match,"Anda tidak mendaftar, sedang menonton pertandingan ini!"
+g_match_mode,Mode pertandingan
+g_match_rigister_fee,Biaya pendaftaran
+g_match_intro,"Mode poin adalah pertandingan berdasarkan dari peringkat poin, mode tunai adalah pertandingan berdasarkan dari saldo pemain"
+g_match_money_mode,Pertandingan tunai
+g_match_point_mode,Pertandingan poin
+g_match_open_road,Ronde jalur
+g_match_no_add_time,"Anda bukan kontestan, tidak dapat menambah waktu!"
+g_watch_match_cannot_join,"Anda bukan kontestan pertandingan ini, tidak dapat bergabung ke pertandingan."
+g_watch_match_no_join,"Anda bukan kontestan, sedang menonton pertandingan!"
+g_chat_match_join,Chat hanya untuk kontestan pertandingan lho
+chat_out_of_limit,Pesan melebihi batas huruf
+internet_unstable,Jaringan tidak stabil
+g_banker_pair_simple,B Pair
+g_player_pair_simple,P Pair
+g_bet_again,Ulang
+baccarat_banker,B
+baccarat_player,P
+baccarat_banker_pair,B Pair
+baccarat_player_pair,P Pair
+roulette_tiers,TIER
+roulette_jeu,ZERO
+roulette_orphelins,ORPHELINS
+roulette_voisins,VOISINS
+g_view,Putar ulang
+g_cancel_text,Batal
+g_leave_room,Keluar
+warning_login_again,"Anda telah berhasil mengatur pilihan bahasa. Untuk mengaktifkan bahasa, anda harus login ulang. Login ulang sekarang?"
+online_population,Pemain online saat ini
+g_probe_open,Buka Roads
+videoB,HD
+videoS,SD
+g_match_finish,Pertandingan telah selesai
+g_match_deadline,"Waktu pendaftaran telah berakhir,
+ anda bergabung sebagai penonton!"
+g_slot,Slot Game
+g_live_casino,Live Gaming
+g_hot_games,Game Populer
+g_latest_games,Game Terbaru
+g_all_games,Semua Game
+g_game_type,Tipe game
+g_free_trial,Trial
+g_real_wallet,Dompet hidup
+g_general_wallet,Dompet Universal
+g_electric_wallet,Dompet elektronik
+g_total_amount,Jumlah total
+g_wallet_type,Jenis dompet
+g_gameroom_left,Sisa babak
+g_gameroom_opened,Tersedia
+g_natural,Pemenang berbakat
+g_win,Menang
+g_earn,Anda mendapatkan
+g_kickFromBB,"Halaman tidak aktif, silahkan masuk kembali ke dalam ruangan"
+g_gameroom_full,Penuh
+g_BB_Name,Blockchain Baccarat
+g_slot_games,Game elektronik
+friend_upLineUser_rent_not_found,Tidak dapat menemukan informasi user online!
+friend_downLineUser_rent_not_found,Tidak dapat menemukan informasi user offline!
+friend_upLineUser_rent_status_0,User online dapat menggunakan jumlah game tidak mencukupi atau batas risiko telah maksimal! Tidak bisa bertaruh
+user_not_found,User tidak tersedia
+friend_exceed_risk_limit,Lebih dari batas risiko user online! Tidak bisa bertaruh
+friend_sw_cannot_use,Dompet tidak memiliki fungsi pengumpulan poin
+friend_tourist_cannot_use,Visitor tidak memiliki fungsi pengumpulan poin
+friend_upLineUser_roundCount_not_enough,User online dapat menggunakan jumlah game tidak mencukupi! Tidak bisa bertaruh
+friend_set_risk_limit,Harap tetapkan batas maksimal risiko
+friend_risk_limit_less_then_1,Batas keamanan resiko harus kurang dari 100%
+g_ERROR_REQUEST_VERIFY,Gagal untuk memastikan permintaan
+g_ERROR_API_NOT_SUPPORTED,API tidak mendukung
+g_ERROR_MISSING_FIELDS,Bagian kosong
+g_ERROR_BOOTS_LIST,Daftar shoe salah
+g_ERROR_BOOTS_NOT_EXISTS,Shoe tidak tersedia
+g_ERROR_JOIN_FULL_BOOTS,Penuh
+g_ERROR_GET_ROUNDS_INFO,Gagal memperoleh info babak
+g_ERROR_ROUND_NOT_EXISTS,Babak tidak tersedia
+g_ERROR_PLAYER_NOT_JOIN,Pemain belum bergabung
+g_ERROR_BOOTS_CLOSED,Shoe tutup
+g_ERROR_ROUND_CLOSED,Babak tutup
+g_ERROR_ROUND_LOCKED,Babak terkunci
+g_ERROR_ROUND_UNLOCKED,Babak terbuka
+g_ERROR_ROUND_NOT_OWNER,Tidak ada pemenang pada babak ini
+g_ERROR_ROUND_DUPLICATE_LOCKED,Duplikat terkunci untuk babak ini
+g_ERROR_ROUND_USER_NOT_EXISTS,Pemain meninggalkan babak
+g_ERROR_BOOTS_GET,Gagal untuk mengambil shoe
+g_ERROR_USER_NOT_EXISTS,Pemain pergi
+g_ERROR_BC_BOOT_NOT_EXISTS,Shoe tidak dapat ditemukan di blockchain
+g_ERROR_BOOT_NOT_CLOSED,Shoe masih belum selesai
+g_ERROR_CASH_NOT_ENOUGH,Saldo tidak cukup
+g_ERROR_SERVER_FAILED,Server gagal
+g_quick_mode,Mode Cepat
+g_quickBet_be_zero,Nilai taruhan tidak boleh 0
+warning_ie11,"IE11 tidak mendukung beberapa fitur, silakan gunakan browser chrome untuk mendapatkan pengalaman permainan yang lebih baik."
+g_BB_Service,Servis Blockchain
+g_BB_Address,Alamat Blockchain
+g_BB_BackToLobby,Kembali ke menu utama
+g_QuickJoin,Join di game baru
+g_QuickJoinHot,Join di akhir game
+g_BB_Content,Isi game
+exit_app_title,System prompt
+exit_app_content,Apakah Anda ingin keluar dari permainan
+FriendInvitationText_001,Anda belum mengatur batas resiko dan Mode Kredit
+FriendInvitationText_002,"Anda tidak memiliki ronde game, silakan beli dan undang teman-teman!"
+FriendInvitationText_003,Kolom tidak boleh kosong
+FriendInvitationText_004,Hanya dapat memasukkan bilangan bulat positif
+FriendInvitationText_005,"Nilai risiko yang Anda tetapkan terlalu rendah, nilai risiko harus lebih besar dari 0."
+FriendInvitationText_006,Pengaturan risiko berhasil!
+FriendInvitationText_007,Hanya dapat memasukkan bilangan bulat positif
+FriendInvitationText_008,Pembelian minimum 1.000 game
+FriendInvitationText_009,Jumlah pembelian berhasil!
+FriendInvitationText_010,Jumlah grup undangan hanya bisa 1-10
+FriendInvitationText_011,Silakan pilih persentase komisi
+FriendInvitationText_012,Masukkan jumlah
+FriendInvitationText_013,Masukkan batas maksimal resiko
+FriendInvitationText_014,Uang tunai (termasuk modal)
+FriendInvitationText_015,Kredit (tidak termasuk modal)
+FriendInvitationSkinText_001,Saldo Sisa Resiko
+FriendInvitationSkinText_002,Batas Maksimal Resiko
+FriendInvitationSkinText_003,Mode Kredit
+FriendInvitationSkinText_004,"Mode Kredit dikunci setelah pengaturan, dan tidak dapat dimodifikasi."
+FriendInvitationSkinText_005,Mode Kredit terkunci
+FriendInvitationSkinText_006,Jumlah game saat ini
+FriendInvitationSkinText_007,Pembelian Game
+FriendInvitationSkinText_008,Game Bonus
+FriendInvitationSkinText_009,Jumlah uang yang dihabiskan
+FriendInvitationSkinText_010,Game lainnya
+FriendInvitationSkinText_011,Silakan isi jumlah pembelian
+FriendInvitationSkinText_012,Masukkan kembali
+FriendInvitationSkinText_013,Undangan massal
+FriendInvitationSkinText_014,Jumlah undangan
+FriendInvitationSkinText_015,Jumlah poin
+FriendInvitationSkinText_016,Persentase komisi
+FriendInvitationSkinText_017,Masukkan nama panggilan
+FriendInvitationSkinText_018,Jumlah poin
+FriendInvitationSkinText_020,Pengaturan kode aktivasi
+FriendInvitationSkinText_021,Hasilkan kode aktivasi secara acak
+FriendInvitationSkinText_022,Mode Resiko dan Kredit
+FriendInvitationSkinText_023,Pembelian ronde game
+FriendInvitationSkinText_024,Undang Teman
+FriendInvitationSkinText_025,Undangan VIP
+MailBoxSkinSkinText_001,Pesan belum dibaca
+MailBoxSkinSkinText_002,Pesan telah dibaca
+MailBoxSkinSkinText_003,Kategori Pesan
+MailBoxSkinSkinText_004,Kotak Pesan Personal
+MailBoxSkinSkinText_005,Subjek
+MailBoxSkinSkinText_006,Kategori Pesan
+MailBoxSkinSkinText_008,"Sistem: Hi player, Apa kabar!"
+MailBoxSkinSkinText_009,Kembali
+UserInfoSkinText_001,Sisa ronde
+UserInfoSkinText_002,Nama Panggilan
+UserInfoSkinText_003,Poin Awal
+UserInfoSkinText_004,Sisa Poin
+UserInfoSkinText_005,Persentase Komisi
+UserInfoSkinText_006,Operator
+UserInfoSkinText_007,Nama Panggilan pengundang
+UserInfoSkinText_008,Poin Bonus
+UserInfoSkinText_009,Poin Akhir
+UserInfoSkinText_010,Mode
+UserInfoSkinText_011,Kategori
+UserInfoSkinText_012,Poin Pemberian
+UserInfoSkinText_013,Status
+UserInfoSkinText_014,Jaringan Sosial
+UserInfoSkinText_015,Manajemen Undangan
+UserInfoSkinText_016,Link Undangan
+UserInfoSkinText_017,Sisa Ronde Game Saat Ini
+UserInfoSkinText_018,Pencarian Player
+UserInfoSkinText_019,Teman ini tidak memiliki catatan pembayaran
+UserInfoSkinText_020,Nama panggilan player
+UserInfoSkinText_021,ID Player
+UserInfoSkinText_022,Informasi pembayaran
+UserInfoSkinText_023,Isi ulang
+UserInfoSkinText_024,Keterangan
+UserInfoSkinText_025,Nama Panggilan Teman
+UserInfoSkinText_026,Poin Isi Ulang
+UserInfoSkinText_027,ID Teman
+UserInfoSkinText_028,Isi Ulang Berhasil
+UserInfoSkinText_029,Catatan Pembayaran
+UserInfoSkinText_030,"Perhatikan, jumlah catatan maksimum hanya 10"
+UserInfoSkinText_031,Konten pesan
+UserInfoSkinText_032,Tambahkan
+UserInfoSkinText_033,Kategori
+UserInfoSkinText_034,Link undangan
+UserInfoSkinText_035,Aktifkan
+UserInfoSkinText_036,Penarikan kembali
+UserInfoSkinText_037,Salin link
+UserInfoSkinText_038,Salin kode aktivasi
+UserInfoSkinText_039,"Anda tidak memiliki saldo risiko, harap tingkatkan risiko Anda untuk dapat mengundang teman!"
+UserInfoSkinText_040,Harap masukkan batas risiko yang ingin Anda ubah.
+UserInfoSkinText_041,Kode aktivasi harus berupa alfanumerik dan kombinasi 8 digit
+rule_bacc_title,Peraturan Baccarat
+rule_bacc_page1_text1,Peraturan dasar
+rule_bacc_page1_text2,"Pilih untuk menaruh taruhan pada Pemain, Banker, Seri atau taruhan lain. Pemain dan Banker sama-sama mendapat 2 kartu di awal"
+rule_bacc_page1_text3,Nilai kartu
+rule_bacc_page1_text4,Kartu
+rule_bacc_page1_text5,Poin
+rule_bacc_page1_text6_7,"Ketika jumlah total kurang dari 10 poin, maka jumlah poin dalam kartu akan dihitung sebagai poin baccarat. Apabila jumlah poin melebihi sembilan, maka akan dikurangi 10 poin, sisa poin akan dihitung sebagai poin baccarat."
+rule_bacc_page2_text1,"Untuk memastikan keadilan pemainan, kami menyediakan baccarat yang paling populer di industri, yang memberi enam kartu di awal. Semoga beruntung!"
+rule_bacc_page2_text2,Hasil permainan
+rule_bacc_page2_text3,"Banker atau Pemain, siapapun yang dapat poin tertinggi menang."
+rule_bacc_page2_text4,Tipe kamar
+rule_bacc_page2_text5,Taruhan Pemain
+rule_bacc_page2_text6,Taruhan Banker
+rule_bacc_page2_text7,Taruhan Seri
+rule_bacc_page2_text8,Umum
+rule_bacc_page2_text9,Menang
+rule_bacc_page2_text10,Seri
+rule_bacc_page2_text11,Kembalikan
+rule_bacc_page2_text12,Banker menang dalam 6 poin
+rule_bacc_page2_text13,Banker menang selain dalam 6 poin
+rule_bacc_page3_text1,Anda bisa menaruh taruhan di Pemain Pair atau Banker Pair. Pemain atau Banker yang mempunyai pair dalam dua kartu pertama akan menang
+rule_bacc_page3_text2,Pemain Pair menang
+rule_bacc_page3_text3,Banker Pair menang
+rule_bacc_page4_text1,Peraturan untuk kartu ketiga
+rule_bacc_page4_text2,"Ketika Pemain atau Banker mendapatkan 8 atau 9 poin, mereka tidak akan dapat kartu ketiga. Selain itu, ketika Pemain mendapatkan 6 atau 7, mereka juga tidak dapat kartu ketiga, jika pemain memiliki di bawah 5 poin baru akan dapat kartu ketiga. dan Banker mengeluarkan kartu ketiga berdasarkan peraturan berikut:"
+rule_bacc_page4_text3,Poin Banker
+rule_bacc_page4_text4,Tidak ada kartu ketiga untuk Pemain
+rule_bacc_page4_text5,Pemain mendapatkan kartu ketiga
+rule_bacc_page4_text6,DAPAT
+rule_bacc_page4_text7,TIDAK
+rule_bacc_page5_text1,"Bead Road, dan Big Road"
+rule_bacc_page5_text2,Peta langkah baccarat adalah representasi grafis dari beberapa ronde permainan baccarat terakhir
+rule_bacc_page5_text3,-Pemain menang
+rule_bacc_page5_text4,-Banker menang
+rule_bacc_page5_text5,-Seri
+rule_bacc_page5_text6,-Pemain Pair
+rule_bacc_page5_text7,-Banker Pair
+rule_bacc_page5_text8,"Terdapat tiga roads(Big-eye road, small road, cockroach road). Setiap baris dan road menggunakan perhitungan yang berbeda untuk menebak hasil akhir dari permainan"
+rule_bacc_page5_text9,-Catat perhitungan hasil dari main road
+rule_dt_title,Peraturan Naga Harimau
+rule_dt_page1_text1,"Hasil ditentukan dari nomor kartu yang keluar, permainan ini sangat populer di semua kalangan."
+rule_dt_page1_text2,"Permainan ini menggunakan 8 set kartu, setiap set terdiri dari 52 kartu. Pemain bisa menaruh taruhan pada Naga, Harimau atau Seri. Dealer hanya membagikan 1 kartu ke 2 bagian, pertama adalah Naga, setelah itu Harimau. Bagian dengan nomor tertinggi akan menang, A paling kecil dan K paling besar. Urutan kartu dari kecil sampai besar: 1-2-3-4-5-6-7-8-9-10-11-12-13. Jika nomor kartu yang keluar sama, hasil permainan adalah Seri."
+rule_dt_page2_text1,Burn
+rule_dt_page2_text2,"Sebelum ronde pertama dimulai, dealer akan memberikan satu kartu di mana nilainya sama dengan jumlah kartu yang di-burn sebelum ronde dimulai. Contoh: kartu pertama adalah 3, jadi 3 kartu akan diambil."
+rule_dt_page2_text3_1,"Naga, peluang: 1 banding 1. Ketika hasil berupa Seri, pemain akan kehilangan setengah nilai taruhan."
+rule_dt_page2_text3_2,"Harimau, peluang: 1 banding 1. Ketika hasil berupa Seri, pemain akan kehilangan setengah nilai taruhan."
+rule_dt_page2_text3_3,"Seri, peluang: 1 banding 8."
+bb_texe_01,Geser ke atas dan ke bawah untuk melihat bukaan di setiap ruangan dengan jelas.
+bb_texe_02,Geser ke atas dan ke bawah untuk menampilkan ruangan
+bb_texe_03,"Ingin memasuki game dengan cepat, pilih untuk bergabung dalam game baru atau bergabung di game akhir."
+bb_texe_04,1. Bergabung cepat dapat memasang taruhan melalui ronde yang ada.
+bb_texe_05,2. Bergabung cepat memasang taruhan di ronde game baru.
+bb_texe_06,"Klik pada tanda tanya bulat untuk membuka area taruhan dan pasang taruhan di banker, Pemain, sisi tie, atau area taruhan samping lainnya."
+bb_texe_07,Klik pada tanda tanya untuk membuka area taruhan
+bb_texe_08,Memasang lebih banyak taruhan dan menikmati pengalaman seru yang belum pernah ada sebelumnya.
+bb_texe_09,Geser ke kiri dan kanan untuk menampilkan jumlah taruhan
+bb_texe_10,Pilih posisi pemasangan taruhan dan Anda dapat memasang lebih banyak taruhan.
+bb_texe_11,Pilih apakah akan mengaktifkan taruhan cepat untuk mempercepat pemasangan taruhan
+bb_texe_12,Pilih apakah akan Taruhan Cepat . Sistem default untuk Taruhan Umum
+bb_texe_13,"Taruhan cepat: memungkinkan pemain memiliki pengalaman membuka kartu dalam hitungan detik, tidak perlu menghabiskan waktu menunggu."
+bb_texe_14,1. Pengaturan Jumlah Taruhan
+bb_texe_15,"2. Pengaturan posisi pemasangan taruhan, dapat bertaruh lebih banyak."
+bb_texe_16,3. Hapus pengaturan taruhan
+bb_texe_17,4. Klik pada tanda tanya untuk memasang taruhan
+bb_texe_18,"Blockchain Baccarat menjadi cara permainan Baccarat tercepat yang pertama, game ini terjamin jujur dan adil, semoga Anda dapat bertaruh dengan gembira."
+bb_texe_19,Pengenalan blockchain
+bb_texe_20,"Teknologi Blockchain adalah solusi teknis yang tidak bergantung pada pihak ketiga untuk menyimpan, memverifikasi, mengirim dan pertukaran data jaringan melalui sistem node terdesentralisasi dan ini terbuka secara umum untuk seluruh publik dalam jaringan."
+bb_texe_21,"Ketika ada lebih dari 6 node yang mengkonfirmasi, maka operasi transaksi tsb tidak dapat dibalik, dan mencapai efek bahwa informasi tidak dapat dimodifikasi."
+bb_texe_22,Alasan tidak perlu memotong kartu
+bb_texe_23,"Setiap kali shoe kartu baru keluar, semua hasil game telah ditentukan, jadi Anda tidak perlu melakukan pemotongan kartu untuk bermain."
+bb_texe_24,Keadilan
+bb_texe_25,"Ketika shoe kartu keluar, informasi shoe kartu dienkripsi dan diunggah ke blockchain. Ketika shoe kartu berakhir, sistem akan mengunggah kunci enkripsi ke blockchain untuk membuka kunci informasi kartu, dan pemain dapat periksa informasi kartu di blockchain."
+bb_texe_26,"Karena sifat blockchain yang tidak dapat diubah, pemain dapat memverifikasi apakah informasi kartu sama dengan kartu ketika dalam game, sehingga dapat mencapai nol kecurangan."
+rule_roul_title,Peraturan Roulette
+rule_roul_page1_text1,"Roulette terdiri dari 37 pocket. Green Pocket bernomor 0. Dari 1-10 dan 19-28, ganjil berwarna merah, genap berwarna hitam. Nomor 11-18 dan 29-36, ganjil berwarna hitam, genap berwarna merah. Pemain bisa menaruh taruhan pada 1 angka atau kombinasi dari beberapa angka."
+rule_roul_page1_text2,Instruksi taruhan
+rule_roul_page1_text3,"Dipermainan baru, tamu dapat bertaruh di dalam atau di luar kotak area taruhan"
+rule_roul_page1_text4,"Setelah menaruh taruhan, roulette akan mulai berputar dan bola putih akan berhenti secara pelan-pelan di salah satu pocket bernomor."
+rule_roul_page2_text2,Klik pada kotak yang berbeda untuk menaruh taruhan sebelum waktu berakhir
+rule_roul_page2_text3,Jenis taruhan dan imbalan
+rule_roul_page2_text4,Jenis taruhan sebagai berikut:
+rule_roul_page2_text5,Taruhkan chip Anda di nomor manapun (termasuk 0)
+rule_roul_page2_text6,"Taruhkan chip Anda di garis antara 2 nomor, contoh: 2 dan 3 (tidak termasuk 0)"
+rule_roul_page2_text7,Jumlah tiga angka dalam sebaris (bet tiga angka. Klik pada garis di atas barisan 3 angka)
+rule_roul_page2_text8,"0, 1, 2 (Taruhkan chip Anda di persilangan antara 0, 1 dan 2) atau 0, 2, 3 (Taruhkan chip Anda di persilangan antara 0, 2 dan 3)"
+rule_roul_page2_text9,4 nomor (Taruhkan chip Anda pada sudut persilangan antara 4 angka)
+rule_roul_page3_text1,"0, 1, 2, 3 (Taruhkan chip Anda pada sisi kanan persilangan dari 0 dan 3, untuk taruhan 0, 1, 2 dan 3)"
+rule_roul_page3_text2,Di atas 2 garis yang bersilangan (taruh taruhan Anda di atas 2 garis yang bersilangan untuk 6 nomor)
+rule_roul_page3_text3,"Setiap 12 nomor di sebuah kolom (taruh taruhan Anda di salah satu kotak dengan tanda *, 0 tidak termasuk)"
+rule_roul_page3_text4,"Klik pada area tulisan ""dozen pertama"", ""dozen kedua"" dan ""dozen ketiga"" untuk secara bersamaan bertaruh 12 digit. (masing-masing adalah 1-12, 13-24 dan 25-36)"
+rule_roul_page3_text5,"Hasil taruhan adalah ganjil atau genap. Jika hasilnya adalah 0, ganjil dan genap akan kalah"
+rule_roul_page3_text6,"Nomor lotere taruhan berwarna merah atau hitam. Jika terbuka angka 0, maka mati semua."
+rule_roul_page3_text7,"Kecil (1-18); besar (19-36). Jika terbuka 0, maka mati semua."
+rule_roul_page4_text1_h,Straight up 
+rule_roul_page4_text2_h,Split bet 
+rule_roul_page4_text3_h,Street bet 
+rule_roul_page4_text4_h,3 Numbers Bet 
+rule_roul_page4_text5_h,Corner Bet 
+rule_roul_page4_text6_h,4 nomor 
+rule_roul_page5_text1_h,Line bet 
+rule_roul_page5_text2_h,Kolom 
+rule_roul_page5_text3_h,Lusin 
+rule_roul_page5_text4_h,Merah/Hitam 
+rule_roul_page5_text5_h,Ganjil/Genap 
+rule_roul_page5_text6_h,Besar/Kecil 
+rule_roul_page6_text1,French Roulette
+rule_roul_page6_text2,Area taruhan
+guide_roul14,"Di French Roulette, Anda dapat bertaruh langsung angka di area tertentu seperti Tiers, Orphelins, Voisins, atau Jeu 0."
+rule_roul_page6_text3,"Anda dapat berpindah kemanapun untuk bertaruh dalam nomor Roulette kecil. Contoh: klik nomor 18, sistem akan memasukkan dua nomor diantaranya pada waktu bersamaan untuk membuat taruhan langsung"
+rule_sicbo_page4_text1,Triple spesifik
+rule_sicbo_page4_text2,Setiap kombinasi triple
+rule_sicbo_page4_text3,"Hasil harus meliputi jumlah poin yang sama dengan dua dadu yang kamu pasang dalam 2 Dadu Pair. Sebagai contoh, jika bertaruh 2 Dadu Pair 2,2, maka hasilnya adalah (2,2,1)"
+rule_sicbo_page4_text4,"Hasil harus meliputi jumlah poin yang sama dengan dua dadu yang kamu pasang dalam Kombinasi 2 Dadu. Sebagai contoh, jika bertaruh 2 Dadu Kombinasi 2,3, maka hasilnya adalah (1,2,3)"
+rule_sicbo_page4_text5,"Taruhan Nomor Single untuk nomor yang muncul 1 kali. Contoh: bertaruh nomor 1, dan hasil permainan (1, 2, 5)"
+rule_sicbo_page4_text6,"Taruhan Nomor Single untuk nomor yang muncul 2 kali. Contoh: bertaruh pada nomor 2, dan hasil permainan (2, 2, 6)"
+rule_sicbo_page4_text7,"Taruhan Nomor Single untuk nomor yang muncul 3 kali. Contoh: bertaruh pada nomor 3, dan hasil permainan (3, 3, 3)"
+rule_sicbo_page4_text8,"Taruhan pada 3 dadu tertentu, 2 dadu memiliki poin yang sama"
+rule_sicbo_page4_text9,"Taruhan pada 3 dadu tertentu, dan ketiga dadu memiliki poin yang berbeda"
+slot_text_1,Pengenalan mesin slot
+slot_text_2,"Mesin slot adalah salah satu permainan paling sederhana, dan inilah salah satu alasan mengapa game ini sangat menarik. Anda tidak perlu menguasai aturan atau teknik apapun untuk bermain game."
+slot_text_3,"Platform eBET mengkategorikan permainan slot (game favorit, game terbaru, semua game, Game Jackpot) dan menyediakan fungsi pencarian yang memungkinkan pemain untuk menemukan game yang ingin mereka mainkan dengan cepat."
+slot_text_4,Pengenalan Game:
+slot_text_5,"Jika Anda memiliki modal awal yang kecil, disarankan untuk memilih mesin dengan pemasangan bet rendah. Dapat memperoleh kesempatan bet lebih banyak."
+slot_text_6,"Berbagai penjelasan permainan mesin slot, silakan masuk ke permainan, klik ⓘ untuk melihat penjelasan game tersebut."
+jackpotGames,Game Jackpot
+g_ERROR_BET_NOT_ENOUGH,Jumlah taruhan tidak mencukupi
+txt_km_kh,Bahasa Khmer
+txt_pt_pt,Bahasa Portugis
+touristKickFive,Anda tidak dapat memasang taruhan di ruangan ini dan sistem akan secara otomatis mengeluarkan Anda setelah 5 ronde.
+g_round_no_bb,No. Ronde
+derived_roads,Small Rd
+buy_point,Beli Poin
+enter_buy_point,Masukkan jumlah pembelian poin
+other_point,Poin lain
+cur_point,Poin saat ini
+point_amount,Jumlah poin
+downline_agent,Sub agen
+g_generate,Hasilkan
+spend_point,Poin bayar
+g_yes,Iya
+g_no,Tidak
+point_left,Sisa poin saat ini
+player_type,Tipe Pemain
+normal_player,Normal
+agent_player,Agen
+ini_point,Poin Awal
+last_point,Sisa poin
+all_type,Semua
+give_point,Poin Pemberian
+g_enabled,Aktifkan
+g_settle,Pembayaran
+commission_point,Poin komisi
+settle_point,Perhitungan Poin
+effective_bet,Taruhan Efektif
+ini_last_point,Awal/Sisa Poin
+ini_last_round,Awal/Sisa Ronde
+g_upline_data,Informasi Agen
+g_risk,Risiko
+give_rounds,Ronde Pemberian
+by_group,Batch
+activation_code,Kode Aktivasi
+copy_success_text_00,Kode Aktivasi telah disalin
+copy_success_text_01,Tautan link aktivasi telah disalin
+invite_url,Website link aktivasi
+confirm_text_00,Yakin mau di recycle?
+confirm_text_01,Yakin mau checkout?
+confirm_text_02,Berhasil checkout!
+confirm_text_03,Berhasil recycle!
+store_point_text_00,Poin isi ulang tidak boleh lebih dari 9 digit
+store_point_text_01,Ronde isi ulang
+store_point_text_02,Poin isi ulang
+g_cash,Uang tunai
+g_credit,Kredit
+no_round_last,"Tidak ada ronde yang tersisa untuk bermain, silakan mengambil dari pemain agen Anda!"
+invitation_point_text_00,Anda belum setting tabel laporan!
+invitation_point_text_01,"Anda tidak ada poin tersisa, silakan beli poin dulu, baru dapat mengundang teman!"
+invitation_point_text_02,Berhasil setting tabel laporan!
+invitation_point_text_03,Minimal harus membeli 1000 poin
+invitation_point_text_04,Pembelian poin berhasil!
+invitation_point_text_05,"Tidak ada poin yang tersisa untuk bermain, silakan mengambil dari pemain agen Anda!"
+plan_type_selection_text_00,Settingan program penyewaan berhasil!
+plan_type_selection_text_01,Silakan pilih program sebelum digunakan
+plan_type_selection_text_02,"Harap diperhatikan, program tidak dapat dimodifikasi setelah konfirmasi."
+plan_type_selection_text_03,Tipe Poin
+plan_type_selection_text_04,Tipe Ronde
+remark_text_00,Harap isi teks keterangan
+remark_text_01,Jumlah teks tidak boleh melebihi 250 kata
+remark_text_02,Penambahan keterangan berhasil!
+remark_text_03,Jumlah maksimal keterangan adalah 10 buah.
+remark_text_04,Masih belum ada keterangan
+remark_text_05,Tambah Keterangan
+point_recycle_01,Pengumpulan Poin recovery
+point_recycle_02,Poin recovery
+point_settle,Perhitungan poin
+point_store,Isi ulang poin
+point_draw,Transfer poin
+g_channel,Saluran
+g_user,Pengguna
+g_system,Sistem
+friend_get_invitation_error,Tidak ada informasi undangan
+friend_get_invitationList_error,Tidak ada list kode undangan
+friend_not_agent_not_planType,Bukan agen atau tidak ada informasi penyewaan
+friend_nick_cannot_be_empty,Kolom Nickname tidak boleh kosong
+friend_verifyCode_cannot_be_empty,Kolom kode undangan tidak boleh kosong
+friend_isAgent_cannot_be_empty,Kolom agen tidak boleh kosong
+friend_general_money_not_enough,Uang tidak cukup
+friend_channel_type_error,Kolom tipe Channel salah
+friend_invitation_insert_error,Pengisian informasi undangan gagal
+friend_batch_more_than_10,Jumlah batch melebihi 10
+friend_inviteCode_used,Kode undangan telah dipakai
+friend_downLineUser_not_agent,Downline bukan agen
+friend_rent_type_error,Tipe penyewaan salah
+friend_cannot_add_remarks_anymore,Tidak dapat menambah keterangan
+friend_update_invitation_error,Update informasi undangan gagal
+friend_get_pointSettle_error,Pengambilan informasi perhitungan gagal
+friend_friendType_error,Kolom status teman salah
+friend_pointSettle_update_error,Update informasi perhitungan gagal
+friend_channel_not_found,Pengambilan informasi channel gagal
+friend_roundCount_not_enough,Ronde tidak cukup
+friend_point_not_enough,Poin tidak cukup
+friend_rent_not_found,Tidak ada informasi penyewaan
+friend_pointSettle_insert_error,Penulisan informasi perhitungan gagal
+users_not_found,Tidak ada daftar pengguna
+mail_insert_error,Penulisan data email gagal
+mail_template_not_found,Tidak ditemukan template email
+mail_remove_error,Gagal menghapus email
+mail_read_error,Penulisan email gagal
+mail_all_status_not_found,Email grup gagal dibuka
+friend_rent_create_error,Pembuatan platform informasi gagal
+friend_rent_updateUser_error,Update informasi pemain gagal
+friend_rent_not_enough_amount,Jumlah pembelian pemain tidak cukup
+friend_rent_no_rent,Tidak ada data program penyewaan
+friend_rent_no_channel,Kehilangan channel
+friend_rent_should_be_a_number,Harus 1 angka
+friend_rent_user_not_at_correct_channel,Pemain berada di channel yang salah
+friend_rent_cannot_start_rent,Tidak dapat membuka program penyewaan
+friend_rent_cannot_get_down_line_list,Gagal menemukan daftar downline
+friend_rent_no_planType,Belum menentukan tipe program
+friend_rent_cannot_set_planType_again,Telah setting tipe program
+friend_rent_error_occur_when_set_planType,Setting tipe program error
+friend_rent_cannot_set_rentType_again,Telah setting tipe penyewaan
+friend_rent_error_occur_when_set_rentType,Setting tipe penyewaan error
+friend_rent_safeLimitPersentage_cannot_over_hundred,"Jumlah batas aman peringatan risiko, jumlah tidak boleh melebihi 100%"
+friend_rent_wrong_planType,Tipe program salah
+friend_rent_over_riskLimit,Telah melebihi batas maksimal risiko
+friend_rent_no_event_id_definition,Tidak ada operasi kejadian
+friend_rent_wrong_money_type,Tipe uang salah
+friend_rent_error_occur_in_patchAmount,Pembelian poin gagal
+warning_bet_brokerageRequired_different,"Di dalam ronde ini, 
+settingan taruhan kali ini 
+berbeda dengan 
+settingan komisi gratis 
+taruhan pertama kali"
+warning_change_video_to_low_quality,"Kecepatan internet lambat, video dialihkan ke mode standar"
+baccarat_banker_lucky6,Lucky6
+baccarat_bankerDragonBonus,BankerDragonBonus
+baccarat_playerDragonBonus,PemainDragonBonus
+baccarat_big,Besar
+baccarat_small,Kecil
+baccarat_bankerOdd,Banker Ganjil
+baccarat_bankerEven,Banker Genap
+baccarat_playerOdd,Pemain Ganjil
+baccarat_playerEven,Pemain Genap
+baccarat_limit,Batas
+baccarat_select_betArea,Pemilihan area taruhan
+baccarat_betArea_switch,Ganti
+baccarat_betArea_select,Pilih
+baccarat_customerBet,Kustomisasi area taruhan
+baccarat_customerBetselect,Pemilihan area taruhan telah penuh
+baccarat_customerBet_cant_move_area,Wilayah ini saat ini ada taruhan dan tidak dapat diubah
+baccarat_banker_Dragon_Bonus,DragonBonus
+baccarat_banker_lucky_0,Lucky
+baccarat_customerBet_lucky_maxBetRate,MAX
+baccarat_customerBet_over_thirty_cant_bet,"Apabila setiap card shoe telah memasuki ronde 31 atau lebih, 
+maka player tidak dapat bertaruh Banker Dragon Bonus, 
+Pemain Dragon Bonus dan besar kecil"
+baccarat_banker_lucky6_Description_1,"Ketika Banker menang dengan 2 kartu enam poin, maka pemain yang bertaruh ""Lucky6"" akan mendapat perbandingan bonus 1:12"
+baccarat_banker_lucky6_Description_2,"Ketika Banker menang dengan 3 kartu enam poin, maka pemain yang bertaruh ""Lucky6"" akan mendapat perbandingan bonus 1:20, hasil lainnya, nilai taruhan akan kalah semua. "
+wait_for_use_013,"Anda telah berada di meja ini, gunakan kesempatan baik-baik untuk bertaruh! "
+wait_for_use_014,"Ruangan ini tidak ada jalan bagus untuk sementara, jendela akan segera ditutup!"
+wait_for_use_015,Settingan tips jalan bagus
+wait_for_use_016,Tips jalan bagus
+baccarat_banker_Dragon_Description_1,"DragonBonus akan memiliki sistem bonus yang berbeda sesuai dengan nilai poin taruhan kemenangan, maksimal 30x lipat, dan tidak akan dikutip komisi. Apabila bertaruh salah satu pihak mendapatkan kemenangan, dan memenuhi salah satu kriteria di bawah akan mendapatkan pembagian bonus;  "
+baccarat_banker_Dragon_Description_2,Nilai kartu pihak pemenang melebihi 4 poin dari pihak yang kalah (non-natural). 
+baccarat_banker_Dragon_Description_3,"2 kartu pihak pemenang apabila ditambahkan bernilai 8 atau 9 (natural), bisa mendapatkan 1 kali lipat bonus. "
+baccarat_banker_Dragon_Description_4,"Apabila taruhan kalah atau seri atau nilai menang di bawah 3 poin, maka uang taruhan akan hilang, tetapi bila kedua belah pihak adalah 8 poin atau 9 poin (natural) dan keduap belah pihak seri, maka dapat mengambil kembali uang taruhan."
+baccarat_banker_Dragon_Winning_situation,Kondisi kemenangan
+baccarat_banker_Dragon_Payout_table,Tabel nilai pembayaran
+baccarat_banker_Dragon_Payout_table_Description_1,Pemenang (Non-Natural) menang 9 poin
+baccarat_banker_Dragon_Payout_table_Description_2,Pemenang (Non-Natural) menang 8 poin
+baccarat_banker_Dragon_Payout_table_Description_3, Pemenang (Non-Natural) menang 7 poin
+baccarat_banker_Dragon_Payout_table_Description_4,Pemenang (Non-Natural) menang 6 poin 
+baccarat_banker_Dragon_Payout_table_Description_5,Pemenang (Non-Natural) menang 5 poin
+baccarat_banker_Dragon_Payout_table_Description_6,Pemenang (Non-Natural) menang 4 poin
+baccarat_banker_Dragon_Payout_table_Description_7,Pemenang (Natural) menang
+baccarat_banker_Dragon_Payout_table_Description_8,Seri (Natural) 
+wait_for_use_001,"Jumlah kartu Pemain/Banker (termasuk kartu tambahan), 5-6 kartu sebagai besar; berarti tambah kartu menjadi lebih besar"
+wait_for_use_002,"Jumlah kartu Pemain/Banker (tidak termasuk kartu tambahan), 4 kartu sebagai kecil; berarti tidak tambah kartu menjadi lebih kecil"
+wait_for_use_003,"Bertaruh Dragon, 1:1, apabila seri akan kalah setengah nilai bet.  
+ Bertaruh Tiger, 1:1, apabila seri akan kalah setengah nilai bet.  
+ Apabila bertaruh seri, bonus menang 1:8."
+wait_for_use_004_1,"Banker Ganjil, 1:0.94, Kartu Banker setiap ronde (termasuk kartu tambahan) setelah ditambah bernilai ganjil "
+wait_for_use_004_2,"Banker Genap, 1:0.94, Kartu Banker setiap ronde (termasuk kartu tambahan) setelah ditambah bernilai genap "
+wait_for_use_004_3,"Pemain Ganjil, 1:0.96, Kartu Pemain setiap ronde (termasuk kartu tambahan) setelah ditambah bernilai ganjil "
+wait_for_use_004_4,"Pemain Genap, 1:0.90, Kartu Pemain setiap ronde (termasuk kartu tambahan) setelah ditambah bernilai genap "
+wait_for_use_005,"Banyak jenis cara bertaruh sesuai keinginan Anda, biarkan sumber uang Anda datang dari berbagai tempat"
+g_game_guide_custom_title,Peraturan Kustomisasi Taruhan (Tidak berlaku untuk game meja)
+g_game_guide_custom_table_01,"Anda dapat melalui tipe bertaruh, bebas untuk memilih opsi permainan yang Anda inginkan, setelah pemilihan selesai, segera dapat memulai bertaruh."
+baccarat_customerBet_Description_02,Minimal memilih 5 area taruhan versi komputer maksimal dapat memilih 9 area taruhan 
+baccarat_customerBet_Description_03,"Perhatian: Apabila setiap card shoe telah memasuki ronde 31 atau lebih, maka pemain tidak dapat bertaruh Banker Dragon Bonus, Pemain Dragon Bonus dan besar kecil"
+wait_for_use_009,Kustomisasi bertaruh dengan berbagai tipe taruhan dan pembagian bonus sebagai berikut
+wait_for_use_010,Tipe Taruhan
+wait_for_use_011,Batas taruhan 
+wait_for_use_012,Pemilihan area taruhan
+msg_bigBonus,Selamat kepada pemain%s telah memenangkan hadiah besar %s %s angpao
+BigSmall,Besar/Kecil
+limited_bonus_txt_00,Angpao terbatas $%s
+lucky_bonus_txt_00,Angpao keberuntungan $%s
+limited_bonus_txt_01,"Angpao terbatas $%s, %s free spin %s"
+lucky_bonus_txt_01,"Angpao keberuntungan $%s, %s free spin %s"
+lucky_bonus,Angpao Keberuntungan
+limited_bonus,Angpao Terbatas
+txt_es_es,Bahasa Spanyol
+CustomizeBetMode_txt_01,Silakan pilih penuh %s baru bisa bertaruh
+choose_luck,Pilih keberuntunganmu
+RedEnrelope_Win_lose,Menang atau kalah
+Currency_CNY,CNY
+Currency_USD,USD
+Currency_JPY,JPY
+Currency_EUR,EUR
+Currency_MYR,MYR
+Currency_VND,mVND
+Currency_KRB,mKRW
+Currency_TWD,TWD
+Currency_IDR,mIDR
+Currency_THB,THB
+Currency_HKD,HKD
+Currency_INR,INR
+Currency_RUB,RUB
+Currency_RON,RON	
+Currency_PLN,PLN
+Currency_TRY,TRY
+Currency_AUD,AUD
+Currency_BND,BND	
+Currency_GBP,GBP
+Currency_BTC,BTC
+Currency_MBT,mBTC
+Currency_ETH,ETH
+Currency_UST,USDT
+Currency_KHR,KHR
+Currency_KES,KES
+gameRanking_title,Papan peringkat permainan
+hr24_ranking,24 jam peringkat
+day7_ranking,7 hari peringkat
+day30_ranking,30 hari peringkat
+ranking_noData,Tidak ada catatan sementara
+Browser_not_support,"Browser ini tidak mendukung sebagian fitur, silakan gunakan browser chrome untuk pengalaman bermain yang lebih baik."
+RedEnvelope_GS_1,Look out!!! This is the red envelope round!!!
+RedEnvelope_GS_2,Look out! The animation for winning red envelopes is currently playing!
+gw_1,"This version is outdated. Please update to the latest release.
+Your version: %s Latest version: %s"
+RedEnrelope_frequency,kali
+Congrats_RedEnrelope,Selamat sudah mendapatkan angpao
+RedEnrelope_bonus,Bonus adalah
+total_Bet,Total taruhan
+total_payout_first,Total pembagian bonus
+on_change_video_host,Sistem penundaan jaringan Anda akan secara otomatis beralih ke saluran yang lebih baik
+gw_2,Versi saat ini
+gw_3,Versi terbaru
+gw_4,"Versi terlalu lama, tidak bisa login"
+baccarat_customerBet_BetLimit,"Jumlah total taruhan tidak sesuai batas area taruhan, jadi taruhan tidak dapat ditempatkan."
+txt_my_mm,Bahasa Myanmar
+chat_ban_warn,Dilarang berbicara
+chat_ban_msg,Anda telah dilarang selama%s menit
+g_edit_chip,Pengaturan Chip
+free_point,Poin hadiah
+Currency_VN2,VND
+Currency_ID2,IDR
+Currency_KR2,KRW
+baccarat_customerBet_Description,"Banker, Pemain, Tie, Banker Pair, Player Pair, bankerDragonBonus,playerDragonBonus, Banker Tunggal, Banker Ganda, Player Tunggal, Player Ganda, Besar, Kecil, Lucky6, bebas untuk mengkombinasikan berbagai jenis taruhan, dan posisi taruhan ditentukan sesuai keinginan sendiri."
+Video_error,"Maaf, data video telah kedaluwarsa"
+BB_Description,"Kecepatan memasang taruhan yang lebih cepat 10x lipat daripada Baccarat tradisional, dapat memasang banyak taruhan dan menikmati pengalaman seru yang belum pernah ada sebelumnya, taruhan cepat, pengalaman membuka kartu dalam hitungan detik, tidak perlu menghabiskan waktu menunggu."
+BB_Description1,Geser ke atas dan ke bawah untuk melihat bukaan di setiap ruangan dengan jelas.
+BB_Description2,"Ingin memasuki game dengan cepat, pilih untuk bergabung dalam game baru atau bergabung di game akhir."
+BB_Description3,"Klik pada tanda tanya bulat untuk membuka area taruhan dan pasang taruhan di banker, pemain, sisi tie, atau area taruhan samping lainnya."
+BB_Description4,"Satu klik untuk membuka mode taruhan cepat, mempercepat memasang taruhan"
+g_copy_all,Salin semua
+friend_nick_check,Nama panggilan player harus antara 2 hingga 7 kata.
+CustomizeBetMode_Description,Klik pada area taruhan untuk mengubah posisi taruhan
+baccarat_customerBet_Description1,Hasil akhir ronde
+baccarat_customerBet_Description2,Jumlah poin banker setelah ditambahkan di setiap ronde (termasuk jumlah kartu yang ditambahkan) bernilai ganjil
+baccarat_customerBet_Description3,Jumlah poin banker setelah ditambahkan di setiap ronde (termasuk jumlah kartu yang ditambahkan) bernilai genap
+baccarat_customerBet_Description4,Jumlah poin pemain setelah ditambahkan di setiap ronde (termasuk jumlah kartu yang ditambahkan) bernilai ganjil
+baccarat_customerBet_Description5,Jumlah poin pemain setelah ditambahkan di setiap ronde (termasuk jumlah kartu yang ditambahkan) bernilai genap
+g_warning_account_inactivated,Kata sandi salah
+g_sw_token_invalid,"Token pemain kedaluwarsa, harap login ulang"
+odd_even_Description,"Catatan: banker ganjil, banker genap, pemain ganjil, pemain genap; ketika hasil dari permainan adalah 0, maka dianggap sebagai genap."
+g_nn_name,Bull Bull
+nn_equal,Senilai
+nn_double,Lipat Ganda
+NEWYEAR_THEME,Selamat Tahun Baru
+g_warning_connection_server_failed_loading,"连接服务器失败，请稍后重试
+Connection to server failed"
+invitation_point_text_06,Jumlah pembelian pemain kurang dari 1000
+nn_p1_equal,Player 1 Setara
+nn_p2_equal,Player 2 Setara
+nn_p3_equal,Player 3 Setara
+nn_p1_double,Player 1 Lipat Ganda
+nn_p2_double,Player 2 Lipat Ganda
+nn_p3_double,Player 3 Lipat Ganda
+nn_double_remind,Taruhan% s pemotongan awal% s
+g_withholding,Pemotongan awal
+Bet_area,Area Taruhan
+nn_p1,PEMAIN 1
+nn_p2,PEMAIN 2
+nn_p3,PEMAIN 3
+roulette_Description,Roulette Cina
+roulette_Description1,"Dalam permainan roulette unik ini, dapat mencoba berbagai metode penyebaran taruhan yang akan memberikan kesenangan lebih dalam permainan Roullete Cina adalah pilihan terbaik bagi Anda bagi pemain yang ingin meningkatkan peluang mereka untuk memenangkan opsi taruhan dalam tunggal."
+roulette_Description2,"Pemain dapat memasang taruhan 
+pada pinggiran dari 36 angka 
+dan kotak yang ada, 
+atau mereka dapat mengklik 
+“pilih semua” pada kotak merah
+atau kotak hitam untuk 
+memasang taruhan, 
+serta besar kecil atau 
+genap ganjil, 
+menawarkan banyak opsi taruhan. Masing-masing dari 12 ikon 
+Zodiac memiliki 3 slot angka, 
+dan posisi nol hanya 
+memiliki satu slot. Metode taruhan dibagi menjadi 
+beberapa opsi, sesuai dengan 
+hubungan antara 
+zodiak dan angka atau 
+hubungan empat baris dan angka. Karena itu, Anda dapat 
+memasang taruhan pada zodiak
+dan juga bertaruh pada ""emas"" 
+(termasuk ikon yang mewakili 
+sapi, harimau, dan kelinci) atau 
+""kayu"" (termasuk ikon 
+yang mewakili domba, monyet,
+dan ayam).
+Selain itu, sisi kiri dan kanan dari
+Roullete Cina masing-masing 
+akan menampilkan 
+angka populer dan 
+angka tidak populer, 
+sehingga pemain juga dapat 
+mengklik angka populer 
+dan tidak populer untuk 
+memasang taruhan."
+bullbull_teaching,"Game kartu Bull Bull dapat dimainkan oleh banyak orang secara bersamaan, dengan menggunakan 52 lembar kartu poker (tidak termasuk dua lembar kartu joker), urutan pembagian kartu setiap ronde dihasilkan secara acak, dan urutan kartu ditentukan oleh nilai nominal kartu pertama. Dan 5 lembar kartu akan dibagiakn secara merata kepada para pemain. Setelah pemain mendapatkan kartu, maka akan di atur grup sesuai dengan aturan permainan yang telah ditentukan. Banker dan Player akan sesuai dengan urutan membandingkan besar kecil untuk menentukan pemenang dari permainan."
+bullbull_teaching1,"Para tamu memilih player No. 1, No. 2, atau No. 3 untuk memasang taruhan, tamu dapat bertaruh dengan nilai setara atau dua kali lipat dari taruhan player. Ketika memasang taruhan lipat ganda, tamu harus memiliki uang yang cukup untuk memasang taruhan."
+bullbull_teaching2,"Ketika memasang taruhan dengan nilai setara, perbandingan pembayaran adalah 1: 0,97.
+ Jika jumlah poinnya sama, maka akan dipilih 1 kartu dengan nilai tertinggi diantara 5 kartu yang ada, dan pihak dengan nilai kartu tertinggi akan menang. Jika jumlah poin dan nilai kartu sama, maka akan dipilih lambang kartu paling besar."
+bullbull_Description3,"Dalam kasus jenis kategori tangan tingkat pembayaran adalah 1: 0,95.Ketika Tamu dan Banker mendapat Bull 7, Bull 8, Bull 9, tingkat pembayaran adalah 1: 2 * 0,95Ketika Tamu dan Banker mendapat Bull Bull, Flush_Bull, Bom,tingkat pembayaran adalah 1:3*0.95"
+bullbull_Description4,"Bull Bull adalah game kartu yang sederhana namun sangat menarik, game yang sangat cepat, menegangkan dan penuh tantangan."
+bullbull_Description5,"Kartu permainan: Game Bull Bull menggunakan kartu poker set lengkap, dikurangi sepasang joker, total 52 lembar."
+bullbull_Description6,"Kursi permainan: Ada 3 player dalam permainan dan 1 orang banker, klik sebagai tamu hanya dapat memasang taruhan pada salah satu dari 3 player yang ada."
+bullbull_Description7,Aturan perbandingan kartu:
+bullbull_Description8,"Kartu Poker dengan nilai 2—9 
+ dihitung sesuai dengan nilai kartu
+  A bernilai 1 poin, 
+ 10, J, Q, dan K bernilai 10 poin.
+ Urutan besar kecil dari 
+ lambang kartu adalah: 
+ sekop, hati, keriting, wajik. 
+ Urutan kartu dari 
+ besar ke kecil adalah: 
+ K, Q, J, 10, 9, 8, 7, 6, 5, 4, 3, 2, A.
+ Urutan kartu dari 
+ besar ke kecil adalah: 
+ Bom, Flush_Bull, Bull Bull, 
+ Bull 9, Bull 8, Bull 7, Bull 6, 
+ Bull 5, Bull 4, Bull 3, 
+ Bull 2, Bull 1, Bull 0
+ Dalam hal 
+ jenis kategori tangan sama
+ kartu dengan nilai nominal terbesar 
+ dari lima kartu 
+ dibandingkan dengan 
+ lambang kartu dan nilai nominal."
+bullbull_Description9,Penjelasan Kategori Tangan:
+bullbull_Description10,Niu Flush berarti kelima kartu terdiri dari jenis kartu dengan nilai 10 keatas (tidak termasuk 10).
+bullbull_Description11,Aturan taruhan:
+bullbull_Description12,"Catatan: Ketika player memasang taruhan di ""lipat ganda"", saldo yang tersedia oleh player harus lebih tinggi dari atau sama dengan 5 kali jumlah taruhan; Apabila memasang taruhan di “setara” maka tidak ada batasan seperti ini."
+bullbull_Description13,"Meja dengan batasan merah (Meja Merah):Batasan Merah adalah membatasi player untuk memasang jumlah taruhan,contohnya Batasan Merah 1000, maka 3 player hanya bisa memasang 1000 pada “setara” ataupun “lipat ganda”."
+bullbull_Description14,"Penarikan komisi Banker: Player memperoleh Bull 7, Bull 8, Bull 9, Bull Bull menang dari Banker, maka banker akan menarik komisi 5%."
+bullbull_Description15,Perbandingan pembayaran:
+bullbull_Description16,"Para tamu dapat bertaruh “lipat ganda” dan “setara” pada masing-masing player;
+Ketika tamu bertaruh setara, tidak peduli kartu apa yang dibuka tingkat pembayaran adalah
+1: 0.97. 
+Ketika tamu memasang taruhan lipat ganda, tamu dan banker tidak memiliki lebih dari Bull 6, tingkat pembayaran adalah 1: 0.97. 
+Ketika tamu memasang taruhan lipat ganda, tamu dan banker mendapat Bull 7, Bull 8, Bull 9, tingkat pembayaran adalah 1:2*0.97.
+Ketika tamu memasang taruhan lipat ganda, tamu dan banker mendapat Bull Bull,tingkat pembayaran adalah 1:3*0.97.
+Ketika tamu memasang taruhan lipat ganda, tamu dan banker mendapat Flush Bull,tingkat pembayaran adalah 1:4.75."
+bullbull_Description17,Jenis Kategori Tangan:
+bullbull_Description18,Flush_Bull > Bull Bull> Bull 9 > Bull 8 > Bull 7 > Bull 6 > Bull 5 > Bull 4 > Bull 3 > Bull 2 > Bull 1 > Bull 0
+bullbull_Description19,Bom
+bullbull_Description20,"Flush Bull (5 Lembar J, Q, K)"
+bullbull_Description21,Bull 9
+bullbull_Description22,Bull 8
+bullbull_Description23,Bull 7
+bullbull_Description24,Bull 6
+bullbull_Description25,Bull 5
+bullbull_Description26,Bull 4
+bullbull_Description27,Bull 3
+bullbull_Description28,Bull 2
+bullbull_Description29,Bull 1
+bullbull_Description30,Bull 0
+bullbull_Description31,"Empat kartu, nilai nominal yang sama, lambang kartu berbeda"
+bullbull_Description32,Kartu yang terdiri dari 5 lembar JQK
+bullbull_Description33,"3 lembar dengan kombinasi kelipatan 10, 2 lembar sisanya ditambahkan bernilai 10 atau 20"
+bullbull_Description34,"3 lembar dengan kombinasi kelipatan 10, 2 lembar sisanya ditambahkan bernilai 9 atau 19"
+bullbull_Description35,"3 lembar dengan kombinasi kelipatan 10, 2 lembar sisanya ditambahkan bernilai 8 atau 18"
+bullbull_Description36,"3 lembar dengan kombinasi kelipatan 10, 2 lembar sisanya ditambahkan bernilai 7 atau 17"
+bullbull_Description37,"3 lembar dengan kombinasi kelipatan 10, 2 lembar sisanya ditambahkan bernilai 6 atau 16"
+bullbull_Description38,"3 lembar dengan kombinasi kelipatan 10, 2 lembar sisanya ditambahkan bernilai 5 atau 15"
+bullbull_Description39,"3 lembar dengan kombinasi kelipatan 10, 2 lembar sisanya ditambahkan bernilai 4 atau 14"
+bullbull_Description40,"3 lembar dengan kombinasi kelipatan 10, 2 lembar sisanya ditambahkan bernilai 3 atau 13"
+bullbull_Description41,"3 lembar dengan kombinasi kelipatan 10, 2 lembar sisanya ditambahkan bernilai 2 atau 12"
+bullbull_Description42,"3 lembar dengan kombinasi kelipatan 10, 2 lembar sisanya ditambahkan bernilai 1 atau 11"
+bullbull_Description43,"Dalam 5 kartu yang ada, tidak ada tiga kartu yang ditambahkan merupakan kelipatan bilangan bulat dari 10. Contoh: 4, 10, 9, 4, 8"
+friend_teaching,"Biarkan diri Anda menjadi agen online, dapatkan lebih banyak manfaat melalui teman Anda, dan biarkan teman Anda mengundang lebih banyak teman untuk mendapatkan lebih banyak."
+friend_teaching1,"Dengan cara membeli poin game, dan membagi poin game Anda kepada teman, baru dapat memulai permainan!"
+friend_teaching2,"Dengan cara membeli jumlah ronde game, kemudian membagi ronde game dan poin Anda yang terkumpul kepada teman, baru dapat memulai permainan!"
+friend_teaching3,"Pilih cara yang Anda inginkan untuk pelunasan pembayaran dengan teman Anda.
+ Pengingat: Pastikan untuk memilih mode laporan sebelum Anda membeli poin!"
+friend_teaching4,"Pilih cara yang Anda inginkan untuk pelunasan pembayaran dengan teman Anda.
+ Pengingat: Pastikan untuk memilih mode laporan sebelum Anda membeli Ronde!"
+friend_teaching5,"Mode kredit tidak termasuk modal. Kedepannya, ketika pemain dan teman melakukan pembayaran, modal yang diberikan di awal akan dikurangi."
+friend_teaching6,"Mode Cash termasuk modal. Kedepannya, ketika pemain dan teman melakukan pembayaran, modal yang diberikan di awal telah termasuk didalamnya."
+friend_teaching7,Anda dapat mengasumsikan jumlah pembayaran dari semua teman yang diundang setelah Anda mengevaluasi situasi Anda sendiri.
+friend_teaching8,"Mode Cash termasuk modal. Kedepannya, ketika pemain dan teman melakukan pembayaran, modal yang diberikan di awal telah termasuk didalamnya."
+friend_teaching9,"Mode kredit tidak termasuk modal. Kedepannya, ketika pemain dan teman melakukan pembayaran, modal yang diberikan di awal akan dikurangi."
+friend_teaching10,"Jumlah uang dalam akun Anda saat ini membeli poin.
+ Pengingat: Anda harus membeli poin terlebih dahulu baru dapat mengundang teman!"
+friend_teaching11,"Jumlah uang dalam akun Anda saat ini membeli Ronde.
+ Pengingat: Anda harus membeli Ronde terlebih dahulu baru dapat mengundang teman!"
+friend_teaching12,Beli poin dengan menggunakan seluruh uang dalam akun Anda.
+friend_teaching13,Beli Ronde dengan menggunakan seluruh uang dalam akun Anda.
+friend_teaching14,Undang teman Anda agar dia mendapat penghasilan lebih untuk Anda!
+friend_teaching15,"Anda dapat membuat undangan untuk teman Anda satu per satu, dan Anda dapat memilih apakah Anda ingin teman Anda mengundang teman lagi ketika Anda mengundang mereka secara individual!"
+friend_teaching16,Anda dapat mengundang teman dalam jumlah besar (hingga 10 grup sekaligus)!
+friend_teaching17,"Anda dapat menyalin link, dan memberikannya kepada teman Anda."
+friend_teaching18,"Anda dapat menyalin kode aktivasi, dan memberikannya kepada teman VIP Anda."
+friend_teaching19,Anda dapat menyalin link secara individual dan memberikannya ke teman Anda.
+friend_teaching20,Anda dapat menyalin semua link sekaligus dan menempelkannya di buku catatan atau memberikannya kepada teman didalam grup Anda.
+friend_teaching21,Dari sini Anda dapat melihat informasi dari daftar teman Anda.
+friend_teaching22,"Dalam bentuk laporan, Anda dapat melihat informasi tentang teman-teman Anda."
+friend_teaching23,Anda dapat menggunakan tombol ini untuk menambah teman Anda.
+friend_teaching24,Anda dapat melihat informasi riwayat pembayaran teman ini melalui tombol ini.
+friend_teaching25,Anda dapat melihat komentar Anda tentang teman ini melalui tombol ini.
+friend_teaching26,Anda dapat melihat undangan Anda ke semua teman Anda melalui manajemen undangan.
+friend_teaching27,Anda dapat menggunakan tombol ini untuk menarik kembali undangan ini.
+friend_teaching28,"Jika Anda ingin melakukan pembayaran dengan teman-teman Anda atau melihat informasi teman-teman Anda, Anda dapat mengklik informasi online."
+friend_teaching29,"Jika Anda ingin melakukan pembayaran dengan teman-teman Anda, Anda dapat mengklik tombol ini."
+bullbull_Description44,Urutan Pembagian Kartu
+bullbull_Description45,"Angka pada kartu pertama yang dibagikan dalam setiap ronde menentukan urutan pembagian kartu pertama, misalnya kartu pertama adalah 3, maka kartu dibagikan terlebih dahulu kepada player nomor 3, kemudian banker, player nomor 1, player nomor 2; dan membagikan 1 kartu pada setiap putaran, dan akan berakhir setelah 5 kartu dibagikan."
+baccarat_nocommission_english,"Banker win on 6, 1 : 0.5"
+g_withholding_refund,Pemotongan pengembalian
+restart_browser,Re-load browser
+baccarat_customerBet_over_thirty_cant_bet_1,"Perhatian: Apabila setiap card shoe telah memasuki ronde 31 atau lebih, maka player tidak dapat bertaruh Banker Dragon Bonus, Player Dragon Bonus, besar, kecil dan Banker Ganjil, Banker Genap, Player Ganjil, Player Genap."
+bullbull_Description46,"Penarikan komisi Banker: Bila player memperoleh Bull 7, Bull 8, Bull 9, Bull_Bull berlipat ganda menang dari Banker, maka banker akan menarik komisi 5%."
+bullbull_Description47,"Kartu remi dengan nilai 2-9 dihitung sesuai dengan nilai kartu, A bernilai 1 poin, 10, J, Q, dan K bernilai 10 poin.
+ Urutan besar kecil dari lambang kartu adalah: sekop, hati, keriting, wajik. 
+ Urutan kartu dari besar ke kecil adalah: K, Q, J, 10, 9, 8, 7, 6, 5, 4, 3, 2, A.
+ Urutan jenis kartu dari besar ke kecil adalah: Flush_Bull, Bull_Bull, Bull 9, Bull 8, Bull 7, Bull 6, Bull 5, Bull 4, Bull 3, Bull 2, Bull 1, Bull 0.
+ Dalam hal jenis kategori tangan sama, ambil kartu dengan nilai nominal terbesar dari lima kartu kemudian bandingkan lambang kartu dan nilai nominal, bandingkan besar kecil pada kartu yang paling besar (K adalah kartu paling besar, A adalah kartu paling kecil); bila nilai nominal kartu yang paling besar adalah sama, maka bandingkan lambang kartu (sekop > hati > keriting > wajik)"
+g_failed_refund,"Pemasangan taruhan gagal, pengembalian uang"
+bullbull_insufficient,Saldo Pemain tidak cukup
+g_game_guide_custom_title1,(Tidak berlaku untuk game meja)
+bullbull_comingsoon,Coming soon
+total_payout,"Total pembayaran
+(termasuk pemotongan)"
+bullbull_Description10_1,Bom berarti bahwa empat kartu memiliki nilai nominal yang sama tetapi lambang di kartu berbeda; Flush Bull berarti bahwa kelima kartu memiliki nilai lebih dari 10 ke atas.
+bullbull_Description16_1,"Para tamu dapat bertaruh “lipat ganda” dan “setara” pada masing-masing player;
+Ketika tamu bertaruh setara, tidak peduli kartu apa yang dibuka tingkat pembayaran adalah 1: 0,97. 
+Ketika tamu memasang taruhan lipat ganda, tamu dan banker tidak memiliki lebih dari Bull 6, tingkat pembayaran adalah 1: 0,97. 
+Ketika tamu memasang taruhan lipat ganda, tamu dan banker mendapat Bull 7, Bull 8, Bull 9, tingkat pembayaran adalah 1:2*0.97.
+Ketika tamu memasang taruhan lipat ganda, tamu dan banker mendapat Bull Bull, Flush Bull, Bom, tingkat pembayaran adalah 1:3*0.97."
+bullbull_Description18_1,Bom > Flush_Bull > Bull Bull> Bull 9 > Bull 8 > Bull 7 > Bull 6 > Bull 5 > Bull 4 > Bull 3 > Bull 2 > Bull 1 > Bull 0
+bullbull_Description47_1,"Kartu remi dengan nilai 2-9 dihitung sesuai dengan nilai kartu, A bernilai 1 poin, 10, J, Q, dan K bernilai 10 poin.
+ Urutan besar kecil dari lambang kartu adalah: sekop, hati, keriting, wajik. 
+ Urutan kartu dari besar ke kecil adalah: K, Q, J, 10, 9, 8, 7, 6, 5, 4, 3, 2, A.
+ Urutan jenis kartu dari besar ke kecil adalah: Bom, Flush_Bull, Bull_Bull, Bull 9, Bull 8, Bull 7, Bull 6, Bull 5, Bull 4, Bull 3, Bull 2, Bull 1, Bull 0.
+ Dalam hal jenis kategori tangan sama, ambil kartu dengan nilai nominal terbesar dari lima kartu kemudian bandingkan lambang kartu dan nilai nominal, bandingkan besar kecil pada kartu yang paling besar (K adalah kartu paling besar, A adalah kartu paling kecil); bila nilai nominal kartu yang paling besar adalah sama, maka bandingkan lambang kartu (sekop > hati > keriting > wajik); bom berarti menang dengan nilai nominal empat kartu bom yang paling besar."
+bullbull_Description12_1,"Catatan: Ketika taruhan ditempatkan dalam ""lipat ganda"", saldo yang tersedia tamu harus lebih besar atau sama dengan tiga kali jumlah taruhan, apabila memasang taruhan di “setara” maka tidak ada batasan tersebut."
+Insufficient_balance,"Saldo pemotongan tidak mencukupi, kegagalan memasang taruhan"
+g_warning_account_inactivated_1,Akun belum diaktifkan
+Insufficient_balance_1,"Saldo tidak mencukupi, bet gagal"
+Input_Verificationcode,Silakan masukkan kode verifikasi di bawah ini
+Verificationcode_error,Kode verifikasi salah
+Version_Switch,Klasik mewah
+Version_Switch1,Tren fashion
+BullBull_new,Jenis kartu umum
+BullBull_new1,Peluang pembayaran
+BullBull_new2,3 player memiliki peluang pembayaran yang sama
+BullBull_new3,peluang pembayaran kemenangan player
+BullBull_new4,peluang pembayaran kekalahan player
+BullBull_new5,Jenis kartu Player
+BullBull_new6,Jenis kartu Banker
+BullBull_new7,Tingkat Pembayaran Lipat Ganda
+BullBull_new8,Tingkat Pembayaran Setara
+g_game_guide_custom_title_first,Peraturan Kustomisasi Taruhan
+bullbull_Description48,Flush Bull
+bullbull_Description49,bull 9-bull 7
+copy_first,Telah disalin ke clipboard
+BullBull_bettingtimelimit,Waktu taruhan game Bull Bull
+BullBull_bettingtimelimit_1,"Ruang game Bull Bull memberikan 25 detik waktu taruhan. Setelah 25 detik, player tidak boleh memasang taruhan lagi."
+SicBo_bettingtimelimit,Waktu taruhan game Sic Bo
+SicBo_bettingtimelimit1,"Ruang game Sic Bo memberikan 30 detik waktu taruhan. Setelah 30 detik, player tidak boleh memasang taruhan lagi."
+Roulette_bettingtimelimit,Waktu taruhan game Roulette
+Roulette_bettingtimelimit1,"Ruang game Roulette memberikan 20 detik waktu taruhan. Setelah 20 detik, player tidak boleh memasang taruhan lagi."
+DragonTiger_bettingtimelimit,Waktu taruhan game Dragon & Tiger
+DragonTiger_bettingtimelimit1,"Ruang game Dragon & Tiger memberikan 25 detik waktu taruhan. Setelah 25 detik, player tidak boleh memasang taruhan lagi."
+Baccarat_bettingtimelimit,Waktu taruhan game Baccarat
+Baccarat_bettingtimelimit1,"Ruang Bid Baccarat memberikan 30 detik waktu taruhan, di mana player juga dapat mengklik dan menambah waktu 10 detik di ruangan sesuai kebutuhan."
+Baccarat_bettingtimelimit2,"Catatan: Dalam setiap ronde, hanya memperbolehkan 1 player untuk mengklik waktu tambahan. Jika tidak ada player yang mengklik tambahan waktu, maka player tidak boleh memasang taruhan lagi setelah 30 detik."
+Baccarat_bettingtimelimit3,"Kamar Baccarat Reguler memberikan 25 detik waktu taruhan. Setelah 25 detik, player tidak boleh memasang taruhan lagi."
+Baccarat_bettingtimelimit4,"Kamar Speed Baccarat memberikan 15 detik waktu taruhan. Setelah 15 detik, player tidak boleh memasang taruhan lagi."
+Shuffle_decks,Kocok
+Shuffle_decks_Baccarat,ｘ
+Cut_a_deck,Potong kartu
+Cut_a_deck1,"Ketika dealer membuka deck baru dari kotak kartu cadangan, manajer di tempat akan secara acak menempatkan ""kartu biru"" ke dalam deck.
+ Ketika dealer menarik kartu biru, akan ada pemberitahuan kepada player bahwa kartu yang dibagikan setelah kartu biru akan menjadi game terakhir dari deck. Setelah game selesai, kartu akan dikocok setelah mengklik kocok."
+Burn_a_card,Burn
+Burn_a_card_1,"Setelah pemotongan kartu dari deck baru selesai, dealer akan membuka kartu pertama dari deck dan jumlah kartu yang dibagikan sesuai dengan jumlah poin kartu.
+ (A, 2, 3, 4, 5, 6, 7, 8, 9, 10 mewakili 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 lembar kartu, J, Q, dan K juga akan dibagikan kedalam 10 kartu)"
+How_to_play,Cara Bermain
+How_to_play_1,"Setelah memulai game, player dapat menempatkan taruhan di dealer, player, seri atau area taruhan sisi lainnya. Diawal game, dealer dan player masing-masing akan mendapatkan dua kartu."
+Interactive_Baccarat,Bid Baccarat
+Interactive_Baccarat1,"Di kamar Bid Baccarat, dealer dan player yang memasang taruhan dengan nilai tertinggi akan menjadi bid master. Setelah dealer membagikan kartu, player yang login dengan perangkat komputer dapat menggunakan mouse mengklik dan menarik sudut kartu untuk melakukan operasi bid, player yang login dengan perangkat lain dapat mengklik dan menarik kartu dengan menggunakan jari tangan."
+Interactive_Baccarat2,"Catatan: dalam setiap game, dealer dan player masing-masing hanya akan ada 1 bid master. Bila lebih dari dua player bertaruh dengan jumlah uang yang sama pada dealer atau player, maka player yang lebih dahulu memasang taruhan akan menjadi bid master. Ketika pemain lain memasang taruhan dalam jumlah yang lebih besar daripada bid master, maka bid master akan digantikan."
+Payout,Pembukaan taruhan
+Payout_1,"Ketika waktu taruhan berakhir, dealer akan memutar roda dan mengeluarkan bola putih secara berlawanan arah. Slot angka terakhir tempat bola putih berhenti akan menjadi hasil akhir."
+Shuffle_decks_Dragon_Tiger,ｘ
+How_to_play_2,"Player dapat bertaruh pada Dragon, Tiger, Seri. Ada dua huruf kartu di depan dealer, akan dibagikan 1 kartu pada masing-masing huruf, yaitu naga, lalu harimau. Bandingkan besar kecil dari kartu di kedua sisi, A paling kecil, dan K paling besar."
+How_to_play_3,"Urutan kartu dari kecil ke besar: 1-2-3-4-5-6-7-8-9-10-11-12-13, tidak membandingkan lambang kartu, hanya membandingkan jumlah poin, bila jumlah poin sama maka dianggap seri."
+Currency_BRL,BRL
+Shuffle_decks_Baccarat_1,"Dealer mengklik kocok, mengeluarkan kartu dari deck, meletakkannya di kotak deck, mengunci dan meletakkannya disamping.
+ . Dealer akan mendapatkan kartu baru, membuka kuncinya, memasukkan kartu ke dalam kotak deck dan memindahkan deck.
+ . Dealer akan melakukan pembatalan awal dan kemudian melanjutkan permainan.
+ . Dealer akan mengambil kartu dan membawanya ke area pengocokan.
+ . Pengocok akan bergantian melakukan prosedur pengocokan A atau C."
+Shuffle_decks_Baccarat_2,"Pengocokan meliputi:
+ Riffle, Chemmy, Poker Strip
+ . Setelah mengocok, simpan di rak yang ditentukan."
+Interactive_Baccarat_1,Interactive Baccarat 
+txt_hi_in,Bahasa Devanagari
+txt_ta_in,Bahasa Tamil
+Shuffle_decks_Baccarat_0,"Baccarat menggunakan 8 set kartu, masing-masing kartu remi terdiri dari 52 lembar kartu standar."
+Shuffle_decks_Dragon_Tiger_0,"Game Dragon & Tiger menggunakan 8 set kartu, masing-masing kartu remi terdiri dari 52 lembar kartu standar."
+txt_zh_cn_1,China
+txt_en_us_1,Inggris
+txt_zh_tw_1,Taiwan
+txt_ms_my_1,Malaysia
+txt_vi_vn_1,Vietnam
+txt_ko_kr_1,Korea
+txt_ja_jp_1,Japan
+txt_in_id_1,Indonesia
+txt_th_th_1,Thailand
+txt_zh_hk_1,Hongkong
+txt_km_kh_1,Kamboja
+txt_pt_pt_1,Portugal
+txt_es_es_1,Spanyol
+Baccarat_Chat_control,x
+Baccarat_Chat_control_1,x
+Baccarat_Chat_control_2,x
+Baccarat_Chat_control_3,x
+Baccarat_Chat_control_4,x
+Baccarat_Chat_control_5,x
+Baccarat_Chat_control_6,x
+Baccarat_Chat_control_7,x
+Baccarat_Chat_control_8,x
+Baccarat_Chat_control_9,x
+Baccarat_Chat_control_10,x
+Baccarat_Chat_control_11,x
+Squeeze_lobby,Tekan Kartu
+payout_animation_odds,：
+Currency_GCO,GCO
+RocketGirls,Presenter Baccarat
+RocketGirls_rules,Peraturan Presenter Baccarat
+bullbull_statement,X
+anchor_Baccarat_1,Semua Presenter
+anchor_Baccarat_2,Online
+anchor_Baccarat_3,Offline
+anchor_Baccarat_4,Favorit
+anchor_Baccarat_5,Perasaan suka
+anchor_Baccarat_6,Win Rate
+anchor_Baccarat_7,Banker Win Rate
+anchor_Baccarat_8,Player Win Rate
+anchor_Baccarat_9,Interaksi
+anchor_Baccarat_10,Statistik
+anchor_Baccarat_11,Menang
+anchor_Baccarat_12,Kalah
+anchor_Baccarat_13,Total Ronde
+g_channel_chat_1,Datanglah seorang long bankers
+g_channel_chat_2,"Cantik, lambaikan tanganmu~!"
+g_channel_chat_3,"Hai Cewe, cium aku ~!"
+g_channel_chat_4,"Cantik, siapa namamu?"
+g_channel_chat_5,"Gadis cantik ini benar-benar membawa keberuntungan, apapun yang saya harapkan pasti keluar~ haha!"
+g_channel_chat_6,Gadis cantik ~kamu keren~ Aku suka~!
+g_channel_chat_7,"Mudah untuk menang, kamu luar biasa, cantik!"
+customized_Baccarat,Kustomisasi
+Currency_TMT,TMT
+BullBull_new7_1,Rate pembayaran dobel
+BullBull_new8_1,Rate pembayaran setara
+Play_record,Catatan permainan
+Competition_ranking,Papan peringkat kompetisi
+No_match,Saat ini tidak ada kompetisi
+Baccarat_Competition_ranking,Papan Peringkat Kompetisi Baccarat
+video_SHD,SHD
+channel_Recharge,"Fungsi top up belum diaktifkan untuk channel ini , Silakan hubungi channel untuk top up"
+Rocket_Girls_Description,"Rocket Girls sama seperti permainan bakarat lainnya, merupakan permainan judi meja dengan melihat angka besar kecil pada kartu untuk menentukan menang kalah. Keistimewaannya adalah dealer digantikan dengan Rocket Girls yang dipilih dengan seksama. Merekomendasikan Banker dan Player serta mencari jalan yang baik dari sekian banyak ronde dalam permainan bakarat, memandu player untuk melihat jelas permainan dan membuat player menemukan peluang kemenangan dari dalamnya."
+Rocket_Girls_Description_1,Panduan Rocket Girls
+Rocket_Girls_Description_2,"1.  Jenis taruhan yang dipandu Rocket Girls, hanya ada 2 area taruhan: banker dan player"
+Rocket_Girls_Description_3,"2.  Rocket Girls mengarahkan pemain untuk memasang taruhan pada banker atau player. ( Rocket Girls tunggal tidak dapat secara bersamaan memsang taruhan pada banker dan player ). Misalnya, jika salah satu rocket girls memasang taruhan untuk banker, maka rocket girls lainnya hanya bisa memasang taruhan untuk player atau tidak memasang taruhan"
+Rocket_Girls_Description_4,"3.  Ronde Kunjungan Rocket Girls tidak dapat memasang taruhan, tetapi dapat memungkinkan player di dalam ruang rocket girls untuk memasang taruhan"
+Rocket_Girls_Description_5,"Harap dicatat bahwa taruhan yang dipasang rocket girls hanya untuk referensi, player dapat memutuskan sendiri apakah akan ikut atau memasang taruhan sebaliknya."
+Rocket_Girls_Description_6,Aturan taruhan player
+Rocket_Girls_Description_7,"1.  Waktu taruhan, waktu taruhan tetap   30 detik.  Setelah  30 detik, player tidak boleh memasang taruhan."
+Rocket_Girls_Description_8,"2.  Area taruhan, memberikan   5   jenis kombinasi taruhan : Banker, player, tie, Banker Pair, Player Pair"
+Rocket_Girls_Description_9,3.  Batas jumlah taruhan bervariasi tergantung pada ruangan yang dipilih oleh rocker girls.
+Rocket_Girls_Description_10,Klik   Bet Limit untuk membaca detail dari rate pembayaran dan batas jumlah taruhan
+Rocket_Girls_Description_11,"Penting  : Jika ada keraguan, dapat masuk ke detail aset untuk melihat rinciannya."
+Rocket_Girls_Description_12,Hasil dan pembayaran
+Rocket_Girls_Description_13,"Dalam periode pembayaran, bila Rocket Girls masih berada di dalam ruang taruhan dimana player telah memasang taruhan, maka dapat melihat gambaran pembayaran."
+Rocket_Girls_Description_14,"Dalam periode pembayaran, bila Rocket Girls tidak ada di dalam ruang taruhan dimana player telah memasang taruhan, maka tidak dapat melihat gambaran pembayaran, isi pembayaran dapat dilihat pada detail aset."
+Rocket_Girls_Description_15,"Player meninggalkan ruang Rocket Girls, pergi ke ruang Rocket Girls lain atau permainan lainnya, isi pembayaran dapat dilihat pada detail aset."
+Rocket_Girls_Description_16,"Penting  : Pemain memasang taruhan di ruang rocket girls, sebenarnya adalah bertaruh di ruang bakarat sesuai dengan nomor kamar. Oleh karena itu, dalam detail aset, semua didasarkan pada pemutaran rekaman ruang taruhan yang sebenarnya, dan tidak ada pemutaran rekaman eksklusif di ruang rocket girls."
+Rocket_Girls_Description_17,"Penampilan Marker road, Big road dan Three Down Road"
+Rocket_Girls_Description_18,"Rocket Girls memasuki ruangan yang berbeda, dan catatan road akan berubah secara instan sesuai dengan ruangan berbeda yang dimasuki oleh rocket girls. Statistik histori Marker Road, Big Road dan Three Down Road yang ditampilkan pada ruang rocket girls didasarkan pada ruangan yang dimasuki rocket girls, bukan statistik road ekslusif dalam ruangan rocket girls."
+Rocket_Girls_Description_19,"Rocket girls tidak memasuki ruangan apapun, catatan road tidak dapat ditampilkan."
+Rocket_Girls_Description_20,Rocket Girls Lobby
+Rocket_Girls_Description_21,"Di lobby game, player dapat melihat profil setiap rocket girls, termasuk  :"
+Rocket_Girls_Description_22,"1.  Foto: Mouse dipindahkan ke atas foto, dapat melihat rate kepuasan rocket girls, rate kemenangan   (  luck ) , rate kemenangan banker, rate kemenangan player dan interaksi"
+Rocket_Girls_Description_23,2.  Love: Klik Love untuk follow rocket girls
+Rocket_Girls_Description_24,3.  Bahasa: Bahasa yang digunakan oleh rocket girls
+Rocket_Girls_Description_25,"4.  Status online: Rocket Girls sedang online, ditandai dengan lampu hijau. Rocket girls sedang offline, ditandai dengan lampu merah"
+Rocket_Girls_Description_27,"6. Situasi menang dan kalah  sebelumnya   18  : Rocket girls memasang taruhan untuk banker   (  player  )   Catatan kemenangan ada di baris atas, ditandai dengan bola merah   (  biru  ) ; Rocket girls memasang taruhan untuk banker ( player ) Catatan kekalahan di baris bawah, ditandai dengan bola merah ( biru ) ; jika permainan tie, tidak dicatat sebagai kemenangan atau kekalahan rocket girls, akan ditandai dengan warna hijau garis miring"
+Rocket_Girls_Description_28,Tentang player
+Rocket_Girls_Description_29,Tinggalkan ruangan secara otomatis
+Rocket_Girls_Description_30,"Dalam dua kasus berikut, semua player akan secara otomatis meninggalkan ruangan langsung dan kembali ke list rocket girls  :"
+Rocket_Girls_Description_31,1.  Rocket girls logout secara normal
+Rocket_Girls_Description_32,2.  Rocket girls keluar karena jaringan terputus
+g_gw_guest_repeat,"Akun Anda login di perangkat lain. Jika memiliki pertanyaan, silakan hubungi layanan pelanggan."
+main_title4_1,Lobi
+Rocket_Girls_Description_33,"5. Win Rate: Jumlah total Rocket Girls memasang taruhan, persentase kemenangan dan kekalahan keseluruhan"
+change_button,Ubah
+roulette_red_simple,R
+roulette_black_simple,B
+g_odd_simple,O
+g_even_simple,E
+g_zero_simple,Z
+g_small_simple,S
+g_big_simple,B
+Baccarat_Chat_control_12,Ini kamar yang sama
+Baccarat_Chat_control_13,Saya telah memasang taruhan di area ini
+Rocket_Girls_client_remind,"Terlalu banyak klik, silakan coba lagi nanti"
+Rocket_Girls_client_remind_1,"Dealer bergabung, waktu taruhan diubah menjadi %s detik"
+Rocket_Girls_client_remind_2,"Dealer keluar, waktu taruhan diubah kembali ke% s detik"
+Rocket_Girls_client_remind_3,Dealer mengakhiri waktu taruhan ronde ini lebih awal
+All_icon,Semua
+online_icon,Online
+Favorite_icon,Favorit
+DT_customerBet_Description_1,"Game ini menggunakan 8 deck kartu, masing-masing adalah kartu standar 52 kartu. Dealer hanya membagikan 2 grup kartu, masing-masing grup hanya bagi 1 kartu, Dragon dan kemudian Tiger. Player boleh bebas bertaruh pada "" Dragon"", "" Tiger"", ""Tie"", ""Dragon Ganjil "", ""DragonGenap"", ""Tiger Ganjil"", ""Tiger Genap"", ""Dragon Black"", ""Dragon Red"", ""Tiger Black"" dan ""Tiger Red"". Bandingkan besar kecil dari kartu di kedua sisi, A paling kecil, dan K paling besar. Urutan kartu dari kecil ke besar: 1-2-3-4-5-6-7-8-9-10-11-12-13, tidak membandingkan bunga kartu, hanya membandingkan nilai kartu, nilai sama berarti Tie."
+DT_customerBet_Description_2,"Pilih setidaknya tiga area taruhan, boleh memilih 9 area taruhan di versi PC"
+DT_customerBet_Description_3,"Catatan: Setelah 30 ronde per boot (yaitu mulai dari ronde ke-31), tidak menerima taruhan pada area ganjil, genap, black, red, dll."
+DT_customerBet_Dragon_odd,Dragon Ganjil
+DT_customerBet_Dragon_even,Dragon Genap
+DT_customerBet_Tiger_odd,Tiger Ganjil
+DT_customerBet_Tiger_even,Tiger Genap
+DT_customerBet_Dragon_black,Dragon Black
+DT_customerBet_Dragon_red,Dragon Red
+DT_customerBet_Tiger_black,Tiger Black
+DT_customerBet_Tiger_red,Tiger Red
+DT_customerBet_Description_4,Ketika Tie akan kehilangan setengah dari jumlah taruhan
+DT_customerBet_Description_5,Ketika Tie akan menang 8x lipat
+DT_customerBet_Description_6,Nilai kartu Dragon adalah ganjil
+DT_customerBet_Description_7,Nilai kartu Dragon adalah genap
+DT_customerBet_Description_8,Nilai kartu Tiger adalah ganjil
+DT_customerBet_Description_9,Nilai kartu Tiger adalah genap
+DT_customerBet_Description_10,Jenis bunga kartu adalah sekop dan keriting
+DT_customerBet_Description_11,Jenis bunga kartu adalah hati dan berlian
+DT_customerBet_Description_12,"※Ketika muncul Tie, taruhan yang ditempatkan di area Tiger Dragon akan dikembalikan setengahnya."
+DT_customerBet_teach_1,"Dragon, Tiger, Tie, Dragon Ganjil, DragonGenap, Tiger Ganjil, Tiger Genap, Dragon Black, Dragon Red, Tiger Black dan Tiger Red, berbagai jenis taruhan bebas untuk dipasang dan dapat menentukan sendiri posisi untuk bertaruh."
+Rocket_Girls_Description_34,"6. Situasi menang dan kalah  sebelumnya   12  : Rocket girls memasang taruhan untuk banker   (  player  )   Catatan kemenangan ada di baris atas, ditandai dengan bola merah   (  biru  ) ; Rocket girls memasang taruhan untuk banker ( player ) Catatan kekalahan di baris bawah, ditandai dengan bola merah ( biru ) ; jika permainan tie, tidak dicatat sebagai kemenangan atau kekalahan rocket girls, akan ditandai dengan warna hijau garis miring"
+Rocket_Girls_Description_35,Online
+Rocket_Girls_Description_36,Offline
+Rocket_Girls_Description_37,Favorite
+Rocket_Girls_Description_38,Lucky
+Rocket_Girls_Description_39,Banker win
+Rocket_Girls_Description_40,Player win
+Rocket_Girls_Description_41,Interact
+Rocket_Girls_Description_42,Stats
+Rocket_Girls_Description_43,Win
+Rocket_Girls_Description_44,Lose
+Rocket_Girls_Description_45,Last
+Rocket_Girls_Description_46,Total
+Rocket_Girls_room_LiveAnchor,Live Anchor
+Rocket_Girls_room_NoBet,No Bet
+Prompt_message,Silakan hubungi layanan pelanggan
+game_name_LadyLuck,Fortune  Wheel
+Currency_AMS,AMS
+Scan_QRCode,Scan QR Code
+Download_APP,Download APP
+game_on,On
+game_off,Off
+Money_Wheel_game_rules,"Desainnya berasal dari game klasik kasino - Money Wheel, mirip dengan mesin slot dan gampang dimainkan, diintegrasikan dengan gameplay yang memiliki rate pembayaran kelipatan tinggi, seperti hipnotis yang menciptakan suasana kasino dan sangat seru. Mari kita bersama-sama mendambakan seorang wanita cantik yang membantu Anda memutarkan keberuntungan kemenangan Anda yang ajaib dan besar."
+Money_Wheel_game_rules_1,"Wheel memiliki 54 posisi berukuran sama, 52 di antaranya berada pada 6 area Main Bet (1, 2, 5, 10, 20, 40), jika Wheel berhenti di area Main Bet tempat pemain bertaruh, maka akan mendapatkan Kemenangan 2 posisi lainnya adalah 2X dan 8X, merupakan indeks multiplier, dapat digunakan sebagai bonus khusus untuk mengalikan nilai kemenangan."
+Money_Wheel_game_rules_2,Side Bet-Ganjil
+Money_Wheel_game_rules_3,Side Bet-Genap
+Money_Wheel_game_rules_4,Side Bet-Indeks Multiplier
+Money_Wheel_game_rules_5,※Harap perhatikan: Jumlah maksimum pembayaran kemenangan akan bervariasi tergantung pada setting operator.
+Money_Wheel_game_rules_6,"Ketika pemain memasuki game, jika putaran sedang berlangsung, harap tunggu putaran berikutnya untuk mulai memasang taruhan."
+Money_Wheel_game_rules_7,"Ketika putaran membuka pemasangan taruhan, pemain dapat mulai memilih chip untuk bertaruh secara terpisah di 6 area Main Bet dan 3 Side Bet."
+Money_Wheel_game_rules_8,"Setelah selesai memasang bet apa pun, perlu mengklik tombol konfirmasi sekali lagi, agar pemasangan bet efektif."
+Money_Wheel_game_rules_9,"Setelah waktu taruhan berakhir, tidak akan menerima taruhan apapun lagi dan dealer memutar Wheel."
+Money_Wheel_game_rules_10,"◆Jika hasil putaran berhenti di 6 area Main Bet (1, 2, 5, 10, 20, 40), maka permainan berakhir:"
+Money_Wheel_game_rules_11,1. Taruhan yang dipasang di area Main Bet dibayar sesuai dengan basic rate hasil kemenangan.
+Money_Wheel_game_rules_12,"Contoh: hasil kemenangan 5, berarti rate pembayaran 1 : 5, hasil kemenangan 10, berarti rate pembayaran 1 : 10, dan seterusnya."
+Money_Wheel_game_rules_13,"2. Taruhan yang dipasang di area Side Bet dibayarkan sesuai dengan rate pembayaran ganjil, genap atau indeks multiplier dari hasil putaran."
+Money_Wheel_game_rules_14,"Contoh: hasil kemenangan adalah ganjil, berarti rate pembayaran 1 : 0,75; hasil kemenangan adalah genap, berarti rate pembayaran 1 : 1,25."
+Money_Wheel_game_rules_15,"◆Jika hasil putaran berhenti pada Multiplier (2X atau 8X), permainan tidak dianggap berakhir, semua taruhan chip di area Main Bet akan di hold, dan chip di area Side Bet akan dibersihkan, tidak diizinkan untuk memasang taruhan baru."
+Money_Wheel_game_rules_16,"1. Putar roda lagi dan bila hasilnya adalah 1, 2, 5, 10, 20 atau 40 maka kalikan rate kemenangan normal pada area Main Bet dengan 2 atau 8 sesuai dengan indeks multiplier yang diperoleh sebelumnya."
+Money_Wheel_game_rules_17,"Contoh: putaran pertama berhenti di 8X, putaran berikutnya berhenti di area taruhan 5, maka pemain yang bertaruh pada area taruhan 5 sebelum chip di hold akan memperoleh (1:5) X 8 = (1:40)"
+Money_Wheel_game_rules_18,"◆Jika hasil dari putaran beberapa kali berhenti pada indeks multiplier (2X atau 8X), permainan tidak akan dianggap berakhir, semua taruhan yang dipasang di area Main Bet akan terus di hold, tidak diizinkan untuk memasang taruhan baru."
+Money_Wheel_game_rules_19,"1. Pada saat ini akan dilakukan akumulasi multiplier, yaitu, setelah rate pembayaran kemenangan biasa di area Main Bet sebelumnya dikalikan 2 atau 8, dikalikan sekali lagi dengan indeks multiplier baru (2X atau 8X)."
+Money_Wheel_game_rules_20,"2. Akumulasi multiplier akan berlanjut hingga putaran berhenti di salah satu area Main Bet: 1, 2, 5, 10, 20 atau 40. (Contoh, jika Wheel berhenti di 8X, kemudian berhenti di 2X pada putaran berikutnya, dan kemudian berhenti di area taruhan 5, maka pemain yang bertaruh di area taruhan 5 sebelum chip di hold akan memperoleh (1: 5) X 8 X 2 = ( 1:40) X 2 = 1: 80)"
+Money_Wheel_game_rules_21,Nilai multiplier yang ditampilkan setelah akumulasi multiplier terus-menerus tidak terikat oleh angka dasar yang dipublikasikan dalam tabel pembayaran.
+Money_Wheel_game_rules_22,"Dalam setiap ronde game, jumlah pembayaran maksimum single bet terbatas. Untuk lebih jelas silakan lihat angka yang diumumkan di bawah statistik bet."
+Money_Wheel_game_rules_23,Side Bet
+Money_Wheel_game_rules_24,"3 Side Bet berupa: ganjil, genap atau multiplier. Pemain tidak diharuskan bertaruh di area Main Bet, dapat juga memasang di area Side Bet secara langsung."
+Money_Wheel_game_rules_25,Hasil dari kemenangan Ganjil pada Side Bet sbb: 1 atau 5.
+Money_Wheel_game_rules_26,Hasil dari kemenangan Genap pada Side Bet sbb: 2 atau 10 atau 20 atau 40.
+Money_Wheel_game_rules_27,Hasil dari kemenangan Multiplier pada Side Bet sbb: dikalikan 2X atau dikalikan 8X
+Money_Wheel_game_rules_28,"Bila hasil putaran adalah indeks multiplier, maka pemain akan segera kehilangan taruhan pada Ganjil dan Genap."
+Money_Wheel_game_rules_29,"※Harap perhatikan, jika hasil dari beberapa spin berturut-turut adalah indeks multiplier, bonus indeks multiplier hanya dapat diperoleh satu kali."
+Money_Wheel_game_rules_30,Auto Bet
+Money_Wheel_game_rules_31,"Setelah memasang taruhan, klik tombol Auto Bet untuk mengatur game dalam beberapa putaran yang ditentukan, akan terus mengulangi taruhan."
+Money_Wheel_game_rules_32,Langkah-langkah:
+Money_Wheel_game_rules_33,1. Tempatkan chip di area taruhan seperti taruhan normal.
+Money_Wheel_game_rules_34,2. Pilih jumlah putaran untuk taruhan ulang.
+Money_Wheel_game_rules_35,3. Kemudian klik tombol konfirmasi dan Auto Bet akan dilakukan.
+Money_Wheel_game_rules_36,"Klik tombol Batal, untuk menghapus jumlah chip dan jumlah putaran di area taruhan."
+Money_Wheel_game_rules_37,Klik tombol Multiple akan menggandakan jumlah chip di area taruhan.
+Money_Wheel_game_rules_38,"Di awal putaran berikutnya, dapat melihat jumlah putaran Auto Bet yang tersisa pada bagian atas Auto Bet."
+Money_Wheel_game_rules_39,"※Harap diperhatikan: Aubo Bet akan berlanjut sampai jumlah putaran Auto Bet yang diatur pemain menjadi 0, atau pemain menghentikan Auto Bet. Taruhan manual, klik untuk Multiple, keluar dari game, dan klik tombol untuk Auto Bet akan mengakhiri Auto Bet."
+Money_Wheel_game_rules_40,Kesalahan Penanganan
+Money_Wheel_game_rules_41,"1.Ketika hasil pertandingan tidak dapat ditentukan, putar kembali hingga hasilnya dapat ditentukan secara normal."
+Money_Wheel_game_rules_42,"2. Ketika ada kesalahan dalam game, program atau sistem, dealer akan memberitahu manajer lapangan untuk menentukan, jika kesalahan tidak dapat segera ditangani, game akan menjadi tidak sah dan jumlah taruhan akan dikembalikan ke pemain."
+Money_Wheel_teach_1,Pemain memasang taruhan setelah memilih chip.
+Money_Wheel_teach_2,Konfirmasikan taruhan
+Money_Wheel_teach_3,"Setelah memasang bet dengan chip, klik OK untuk menyelesaikan taruhan Anda."
+Money_Wheel_teach_4,Klik Auto Bet dan menetapkan jumlah putaran yang ditentukan sehingga dapat mengulangi taruhan.
+game_Mute,Silent
+game_fullscreen,Full Screen
+blackgold_gamefast_BB,"Blockchain
+Baccarat"
+blackgold_gamefast_slot,Slot Game
+blackgold_gameTournament,"Turnamen
+Baccarat"
+blackgold_gamemenu_BB,Blockchain Baccarat
+blackgold_gamemenu_slot,Slot Game
+blackgold_gamemenu_trial,Ujicoba
+blackgold_slot_game_hot,Populer
+blackgold_slot_game_all,Semua
+blackgold_slot_game_new,Game Terbaru
+blackgold_slot_game_jackpot,Game Jackpot
+blackgold_gamemenu_multitable,Multi-meja
+Money_Wheel_MAXPayout,Pembayaran Maksimal
+Currency_ADA,ADA
+Currency_EOS,EOS
+Currency_LTC,LTC
+Currency_TRX,TRX
+Currency_UBT,UBT
+Money_Wheel_Auto,Akan berhenti ketika sisa saldo berkurang hingga nilai setting
+dmg_chang_systemsettings,"Jika ingin mengganti metode display, silakan melakukan pengubahan di pengaturan sistem"
+g_battle_wallet,Dompet PK
+g_casino_wallet,Dompet Kasino
+g_sports_wallet,Dompet Sports
+g_ticket_wallet,Dompet Lotere
+Money_Wheel_AutoBetSetting,Pengaturan Auto Bet
+Money_Wheel_AutoBetSetting_1,Fungsi auto bet berhenti karena sisa saldo tidak cukup
+Money_Wheel_AutoBetSetting_2,Nilai limit harus lebih rendah dari saldo
+Money_Wheel_AutoBetSetting_3,"Pengaturan auto bet salah, harap periksa"
+blackgold_gamemenu_Anchor,"Presenter
+Baccarat"
+game_cannotjoin,Anda tidak dapat memasuki meja game!
+MoneyWheel_odd,Gjl
+MoneyWheel_even,Gnp
+MoneyWheel_Auto,Auto Bet
+Multi_table_banker_pair,BANKER PAIR
+Multi_table_player_pair,PEMAIN PAIR
+game_new_app,"Versi Anda terlalu lama, unduh App baru"
+game_bet_for_no_out,"Anda tidak bet dalam 3 putaran, sehingga akan mengeluarkan Anda dari kamar"
+Dealer_logout_GS,X
+txt_de_de,Bahasa Jerman
+txt_fr_fr,Bahasa Prancis
+txt_tr_tr,Bahasa Turki
+game_Maintenance,Sedang dalam pemeliharaan
+Dealer_switch_tables,Sedang pergantian meja
+DMG_CP_LangKey_78,Dua sisi
+DMG_CP_LangKey_79,Bsr
+DMG_CP_LangKey_80,Kcl
+DMG_CP_LangKey_81,Super besar
+DMG_CP_LangKey_82,Super kecil
+DMG_CP_LangKey_83,Besar Genap
+DMG_CP_LangKey_84,Kecil Genap
+DMG_CP_LangKey_85,Besar Ganjil
+DMG_CP_LangKey_86,Kecil Ganjil
+DMG_CP_LangKey_87,Gjl
+DMG_CP_LangKey_88,Gnp
+DMG_CP_LangKey_89,Bola Berwarna
+DMG_CP_LangKey_90,Bola Merah
+DMG_CP_LangKey_91,Bola Biru
+DMG_CP_LangKey_92,Bola Hijau
+DMG_CP_LangKey_93,Nilai Total
+DMG_CP_LangKey_94,Nilai Total 3 bola
+DMG_CP_LangKey_95,Naga Harimau
+DMG_CP_LangKey_96,Naga
+DMG_CP_LangKey_97,Harimau
+DMG_CP_LangKey_98,Tie
+DMG_CP_LangKey_99,Three of a Kind
+DMG_CP_LangKey_100,Three of a Kind General Bet
+DMG_CP_LangKey_101,Three of a Kind Single Bet
+DMG_CP_LangKey_102,Pair
+DMG_CP_LangKey_103,Pair General Bet
+DMG_CP_LangKey_104,Pair Single Bet
+DMG_CP_LangKey_105,Straight
+DMG_CP_LangKey_106,Straight General Bet
+DMG_CP_LangKey_107,Straight Single Bet
+DMG_CP_LangKey_108,First set ball vs second set ball
+DMG_CP_LangKey_109,First set ball vs third set ball
+DMG_CP_LangKey_110,Second set ball vs third set ball
+DMG_CP_LangKey_112,Three star bet langsung
+DMG_CP_LangKey_113,Three star 3 Grup
+DMG_CP_LangKey_114,Three star 6 Grup
+DMG_CP_LangKey_115,Front 2 bet langsung
+DMG_CP_LangKey_116,Front 2 bet grup
+DMG_CP_LangKey_117,Back 2 bet langsung
+DMG_CP_LangKey_118,Back 2 bet grup
+DMG_CP_LangKey_119,Nilai total 3 Grup
+DMG_CP_LangKey_120,Nilai total 6 Grup
+DMG_CP_LangKey_121,Positioning
+DMG_CP_LangKey_123,1 number Not Positioning
+DMG_CP_LangKey_124,2 number Not Positioning
+DMG_CP_LangKey_125,Dua sisi dua depan
+DMG_CP_LangKey_126,Dua sisi dua belakang
+DMG_CP_LangKey_127,1 Dare
+DMG_CP_LangKey_128,2 Dare
+DMG_CP_LangKey_129,Ratusan
+DMG_CP_LangKey_130,Puluhan
+DMG_CP_LangKey_131,Satuan
+DMG_CP_LangKey_217,Dua sisi
+DMG_CP_LangKey_221,eBET Mobile Casino
+DMG_CP_LangKey_223,Five Star Bet langsung
+DMG_CP_LangKey_224,Five Star Bet Grup 120
+DMG_CP_LangKey_225,Five Star Bet Grup 60
+DMG_CP_LangKey_226,Five Star Bet Grup 30
+DMG_CP_LangKey_227,Five Star Bet Grup 20
+DMG_CP_LangKey_228,Five Star Bet Grup 10
+DMG_CP_LangKey_229,Five Star Bet Grup 5
+DMG_CP_LangKey_231,Front 4 Bet langsung
+DMG_CP_LangKey_232,Front 4 Bet Grup 24
+DMG_CP_LangKey_233,Front 4 Bet Grup 12
+DMG_CP_LangKey_234,Front 4 Bet Grup 6
+DMG_CP_LangKey_235,Front 4 Bet Grup 4
+DMG_CP_LangKey_237,Back 4 Bet langsung
+DMG_CP_LangKey_238,Back 4 Bet Grup 24
+DMG_CP_LangKey_239,Back 4 Bet Grup 12
+DMG_CP_LangKey_240,Back 4 Bet Grup 6
+DMG_CP_LangKey_241,Back 4 Bet Grup 4
+DMG_CP_LangKey_243,Front 3 Bet langsung
+DMG_CP_LangKey_244,Front 3 Bet Nilai Total
+DMG_CP_LangKey_245,Front 3 Span Bet
+DMG_CP_LangKey_246,Front 3 Bet Grup 6
+DMG_CP_LangKey_247,Front 3 Bet Grup 3
+DMG_CP_LangKey_248,Front 3 Bet Grup Nilai Total
+DMG_CP_LangKey_249,Front 3 Bravery Bet
+DMG_CP_LangKey_250,Front 3 Nilai Total Belakang
+DMG_CP_LangKey_251,Front 3 Nomor Khusus
+DMG_CP_LangKey_253,Middle 3 Bet langsung
+DMG_CP_LangKey_254,Middle 3 Bet Nilai Total
+DMG_CP_LangKey_255,Middle 3 Span Bet
+DMG_CP_LangKey_256,Middle 3 Bet Grup 6
+DMG_CP_LangKey_257,Middle 3 Bet Grup 3
+DMG_CP_LangKey_258,Middle 3 Bet Grup Nilai Total
+DMG_CP_LangKey_259,Middle 3 Bravery Bet
+DMG_CP_LangKey_260,Middle 3 Nilai Total Belakang
+DMG_CP_LangKey_261,Middle 3 Nomor Khusus
+DMG_CP_LangKey_263,Back 3 Bet langsung
+DMG_CP_LangKey_264,Back 3 Bet Nilai Total
+DMG_CP_LangKey_265,Back 3 Span Bet
+DMG_CP_LangKey_266,Back 3 Bet Grup 6
+DMG_CP_LangKey_267,Back 3 Bet Grup 3
+DMG_CP_LangKey_268,Back 3 Bet Grup Nilai Total
+DMG_CP_LangKey_269,Back 3 Bravery Bet
+DMG_CP_LangKey_270,Back 3 Nilai Total Belakang
+DMG_CP_LangKey_271,Back 3 Nomor Khusus
+DMG_CP_LangKey_273,Front 2 Bet Nilai Total
+DMG_CP_LangKey_274,Front 2 Span Bet
+DMG_CP_LangKey_275,Front 2 Bet Grup Nilai Total
+DMG_CP_LangKey_276,Front 2 Bravery Bet
+DMG_CP_LangKey_278,Back 2 Bet Nilai Total
+DMG_CP_LangKey_279,Back 2 Span Bet
+DMG_CP_LangKey_280,Back 2 Bet Grup Nilai Total
+DMG_CP_LangKey_281,Back 2 Bravery Bet
+DMG_CP_LangKey_283,Five Star Bet 1 number not positioning
+DMG_CP_LangKey_284,Five Star Bet 2 number not positioning
+DMG_CP_LangKey_285,Five Star Bet 3 number not positioning
+DMG_CP_LangKey_286,Front 4 Bet 1 number not positioning
+DMG_CP_LangKey_287,Front 4 Bet 2 number not positioning
+DMG_CP_LangKey_288,Back 4 Bet 1 number not positioning
+DMG_CP_LangKey_289,Back 4 Bet 2 number not positioning
+DMG_CP_LangKey_290,Front 3 Bet 1 number not positioning
+DMG_CP_LangKey_291,Front 3 Bet 2 number not positioning
+DMG_CP_LangKey_292,Back 3 Bet 1 number not positioning
+DMG_CP_LangKey_293,Back 3 Bet 2 number not positioning
+DMG_CP_LangKey_295,Front 3 Besar Kecil Ganjil Genap
+DMG_CP_LangKey_296,Back 3 Besar Kecil Ganjil Genap
+DMG_CP_LangKey_297,Front 2 Besar Kecil Ganjil Genap
+DMG_CP_LangKey_298,Back 2 Besar Kecil Ganjil Genap
+DMG_CP_LangKey_299,Semoga lancar dan sukses
+DMG_CP_LangKey_300,Semakin banyak hal baik yang terjadi
+DMG_CP_LangKey_301,Mendapat berita gembira
+DMG_CP_LangKey_302,Semoga banyak rezeki berlimpah
+DMG_CP_LangKey_304,2 Optional Bet Langsung
+DMG_CP_LangKey_305,2 Optional Bet Nilai Total
+DMG_CP_LangKey_306,2 Optional Bet Grup
+DMG_CP_LangKey_307,2 Optional Bet Grup Nilai Total
+DMG_CP_LangKey_308,3 Optional Bet Langsung
+DMG_CP_LangKey_309,3 Optional Bet Nilai Total
+DMG_CP_LangKey_310,3 Optional Bet Grup 6
+DMG_CP_LangKey_311,3Optional Bet Grup 3
+DMG_CP_LangKey_312,3 Optional Bet Grup Nilai Total
+DMG_CP_LangKey_313,4 Optional Bet langsung
+DMG_CP_LangKey_314,4 Optional Bet Grup 24
+DMG_CP_LangKey_315,4 Optional Bet Grup 12
+DMG_CP_LangKey_316,4 Optional Bet Grup 6
+DMG_CP_LangKey_317,4 Optional Bet Grup 4
+DMG_CP_LangKey_318,Ball 1
+DMG_CP_LangKey_319,Ball 2
+DMG_CP_LangKey_320,Ball 3
+DMG_CP_LangKey_321,Ball 4
+DMG_CP_LangKey_322,Ball 5
+DMG_CP_LangKey_323,All Five Middle One
+DMG_CP_LangKey_324,Naga Harimau Tie
+DMG_CP_LangKey_325,Nomor Khusus
+DMG_CP_LangKey_326,Bull Bull
+DMG_CP_LangKey_327,Show Hand
+DMG_CP_LangKey_328,Bull 1
+DMG_CP_LangKey_329,Bull 2
+DMG_CP_LangKey_330,Bull 3
+DMG_CP_LangKey_331,Bull 4
+DMG_CP_LangKey_332,Bull 5
+DMG_CP_LangKey_333,Bull 6
+DMG_CP_LangKey_334,Bull 7
+DMG_CP_LangKey_335,Bull 8
+DMG_CP_LangKey_336,Bull 9
+DMG_CP_LangKey_338,Bull 0
+DMG_CP_LangKey_339,Bull Besar
+DMG_CP_LangKey_340,Bull Kecil
+DMG_CP_LangKey_341,Bull Ganjil
+DMG_CP_LangKey_342,Bull Genap
+DMG_CP_LangKey_343,Ball 1 vs Ball 4
+DMG_CP_LangKey_344,Ball 1 vs Ball 5
+DMG_CP_LangKey_345,Ball 2 vs Ball 4
+DMG_CP_LangKey_346,Ball 2 vs Ball 5
+DMG_CP_LangKey_347,Ball 3 vs Ball 4
+DMG_CP_LangKey_348,Ball 3 vs Ball 5
+DMG_CP_LangKey_349,Ball 4 vs Ball 5
+DMG_CP_LangKey_350,Miscellaneous six
+DMG_CP_LangKey_351,Half Straight
+DMG_CP_LangKey_352,Five of a kind
+DMG_CP_LangKey_353,Four of a kind
+DMG_CP_LangKey_354,Full house
+DMG_CP_LangKey_355,Straight
+DMG_CP_LangKey_356,Three of a kind
+DMG_CP_LangKey_357,Two pair
+DMG_CP_LangKey_358,One Pair
+DMG_CP_LangKey_359,No-pair
+DMG_CP_LangKey_360,Prime
+DMG_CP_LangKey_361,Composite
+DMG_CP_LangKey_365,5 Genap 0 Ganjil
+DMG_CP_LangKey_366,4 Genap 1 Ganjil
+DMG_CP_LangKey_367,3 Genap 2 Ganjil
+DMG_CP_LangKey_368,3 Ganjil 2 Genap
+DMG_CP_LangKey_369,4 Ganjil 1 Genap
+DMG_CP_LangKey_370,5 Ganjil 0 Genap
+DMG_CP_LangKey_371,Tail Besar
+DMG_CP_LangKey_372,Tail Kecil
+DMG_CP_LangKey_373,Puluh Ribuan
+DMG_CP_LangKey_374,Ribuan
+DMG_CP_LangKey_468,Angka
+DMG_CP_LangKey_469,3 Bravery
+DMG_CP_LangKey_475,eBET 3D
+DMG_CP_LangKey_488,eBET 11 pilih 5
+DMG_CP_LangKey_489,Front 3 Bet Grup
+DMG_CP_LangKey_490,Middle 3 Bet Grup
+DMG_CP_LangKey_491,Back 3 Bet Grup
+DMG_CP_LangKey_492,Front 3 Not Positioning
+DMG_CP_LangKey_493,Middle 3 Not Positioning
+DMG_CP_LangKey_494,Back 3 Not Positioning
+DMG_CP_LangKey_495,Bebas pilih 1 dari 1
+DMG_CP_LangKey_496,Bebas pilih 2 dari 2
+DMG_CP_LangKey_497,Bebas pilih 3 dari 3
+DMG_CP_LangKey_498,Bebas pilih 4 dari 4
+DMG_CP_LangKey_499,Bebas pilih 5 dari 5
+DMG_CP_LangKey_500,Bebas pilih 6 dari 5
+DMG_CP_LangKey_501,Bebas pilih 7 dari 5
+DMG_CP_LangKey_502,Bebas pilih 8 dari 5
+DMG_CP_LangKey_504,Nilai Total 2 permukaan
+DMG_CP_LangKey_505,Tebak Ganjil Genap
+DMG_CP_LangKey_506,Tebak Posisi Tengah
+DMG_CP_LangKey_507,Front 3 Bravery Tow
+DMG_CP_LangKey_508,Middle 3 Bravery Tow
+DMG_CP_LangKey_509,Back 3 Bravery Tow
+DMG_CP_LangKey_510,Front 2 Bravery Tow
+DMG_CP_LangKey_511,Back 2 Bravery Tow
+DMG_CP_LangKey_512,Bravery Number
+DMG_CP_LangKey_513,Tow Number
+DMG_CP_LangKey_514,Front 3 Group Bet Group Langsung
+DMG_CP_LangKey_515,Middle 3 Group Bet Group Langsung
+DMG_CP_LangKey_516,Back 3 Group Bet Group Langsung
+DMG_CP_LangKey_552,eBET PK10
+DMG_CP_LangKey_553,Front 1 Bet langsung
+DMG_CP_LangKey_554,Front 4 Bet langsung
+DMG_CP_LangKey_555,Front 5 Bet langsung
+DMG_CP_LangKey_556,Champion
+DMG_CP_LangKey_557,The 1st runner-up
+DMG_CP_LangKey_558,The 2nd runner-up
+DMG_CP_LangKey_559,Juara 4
+DMG_CP_LangKey_560,Juara 5
+DMG_CP_LangKey_561,Juara 6
+DMG_CP_LangKey_562,Juara 7
+DMG_CP_LangKey_563,Juara 8
+DMG_CP_LangKey_564,Juara 9
+DMG_CP_LangKey_565,Juara 10
+DMG_CP_LangKey_566,Champion dan The 1st runner-up nilai total
+DMG_CP_LangKey_567,Two side total Champion dan Runner-up
+DMG_CP_LangKey_568,Champion dan The 1st runner-up Composite
+DMG_CP_LangKey_569,Ball 1 VS Ball 10
+DMG_CP_LangKey_570,Ball 2 VS Ball 9
+DMG_CP_LangKey_571,Ball 3 VS Ball 8
+DMG_CP_LangKey_572,Ball 4 VS Ball 7
+DMG_CP_LangKey_573,Ball 5 VS Ball 6
+DMG_CP_LangKey_610,3 angka sama
+DMG_CP_LangKey_611,3 angka beda
+DMG_CP_LangKey_612,3 angka berbeda Bravery Tow
+DMG_CP_LangKey_613,3 angka berurutan
+DMG_CP_LangKey_614,2 angka sama Multiple Selection
+DMG_CP_LangKey_615,2 angka sama Single Selection
+DMG_CP_LangKey_616,2 angka berbeda Multiple Selection
+DMG_CP_LangKey_617,2 angka berbeda Bravery Tow
+DMG_CP_LangKey_618,Three General
+DMG_CP_LangKey_619,Kembar tiga
+DMG_CP_LangKey_620,Long card
+DMG_CP_LangKey_621,Short Deck
+DMG_CP_LangKey_622,Angka Sama
+DMG_CP_LangKey_623,1 angka
+DMG_CP_LangKey_624,General Bet 3 angka sama
+DMG_CP_LangKey_625,General Bet 3 angka berurutan
+DMG_CP_LangKey_626,Total tiga dadu
+DMG_CP_LangKey_657,eBET Quick 3
+DMG_CP_LangKey_658,2 angka sama
+DMG_CP_LangKey_669,Poin
+DMG_CP_LangKey_660,4 angka sama
+Currency_MXN,MXN
+DMGCP_0,Hall Conventional
+DMGCP_1,Cashback Lobby
+DMGCP_2,Capital Guarantee Lobby
+DMGCP_3,High-Payment Lobby
+DMGCP_4,Conventional Lobby
+DMGCP_5,Free Commission Lobby
+DMGCP_6,Lobby Raja
+Money_Wheel_AutoBetSetting_4,Akan auto bet mulai ronde berikutnya
+Rocket_Girls_GameRule_01,Ganti meja
+Rocket_Girls_GameRule_02,"Dealer dapat mengganti meja baccarat yang berbeda. Pada saat bersamaan ketika mengganti meja, semua pemain akan mengikuti dealer untuk beralih ke meja baccarat baru untuk memasang bet."
+Rocket_Girls_GameRule_03,"Pemain memilih hadiah, dapat memberikan hadiah kepada Dealer. Dengan tahap sbb:"
+Rocket_Girls_GameRule_04,1. Klik tombol hadiah
+Rocket_Girls_GameRule_05,2. Pilih jenis hadiah
+Rocket_Girls_GameRule_06,"3. Klik tombol hadiah lagi, jumlah uang akan berkurang"
+Rocket_Girls_GameRule_07,4. Kirim pesan hadiah dan animasi hadiah
+Rocket_Girls_GameRule_08,Chat
+Rocket_Girls_GameRule_09,Pemain melakukan voice chat publik dengan dealer. Dengan tahap sbb:
+Rocket_Girls_GameRule_10,1. Klik tombol Chat
+Rocket_Girls_GameRule_11,2. Tunggu balasan dari dealer
+Rocket_Girls_GameRule_12,3. Terima permintaan chat dari dealer
+Rocket_Girls_GameRule_13,4. Pemain membatalkan chat
+DMGCP_Bet_Cancel,Tarik balik
+DMGCP_Bet_Cancel_1,Discard – Return bets
+Rocket_Girls_gift_1,Love
+Rocket_Girls_gift_2,Bear Doll
+Rocket_Girls_gift_3,Handphone
+Rocket_Girls_gift_4,Diamond Ring
+Rocket_Girls_gift_5,Crystal Shoe
+Rocket_Girls_gift_6,Gold
+Rocket_Girls_gift_7,Diamond
+Rocket_Girls_gift_8,Dream carriage
+Rocket_Girls_gift_9,Sports Car
+Rocket_Girls_gift_10,Royal Castle
+Rocket_Girls_tips_anchor,Berikan hadiah ke dealer %s
+Rocket_Girls_call_anchor,Berikan kepada dealer
+Rocket_Girls_call_player,Dealer mengundang Anda untuk mengobrol
+Rocket_Girls_talk_with,Sedang menelepon dengan %s
+g_send,Kirim
+Rocket_Girls_oncall,Sedang menelepon
+Rocket_Girls_schedule,Dealer hari ini
+Rocket_Girls_chat_stop,Chat terputus
+Rocket_Girls_mic_example,"Dengan browser Chrome sebagai contoh, buka Pengaturan-Pengaturan Lanjut-Privasi dan Keamanan-Kontrol Website-Mikrofon, periksa apakah sudah dihidupkan atau tidak"
+Rocket_Girls_change_table,Ikuti dealer ke %s
+PT_Baccarat,"
+Welcome to eBet-Playtech collaborated live dealer game
+
+eBET’s collaboration with Playtech (LON: PTEC) during the COVID-19 outbreak allows gamers to enjoy Playtech’s European dealer games through eBET’s platform, and eBet’s Asian dealer games through Playtech’s platform. Stay home, stay safe, stay entertained!"
+Rocket_Girls_nomally_logout,"Maaf, Host telah offline, Anda tidak dapat memasang bet saat ini. Sistem akan secara otomatis mengeluarkan Anda dari ruangan. Terima kasih atas pengertian Anda."
+Rocket_Girls_history_tipsanchor,Tip
+Tips_AskOverTime_PleaseCheckNet,"Request timed out, please check the network"
+Currency_PEN,PEN
+Currency_COP,COP
+Rocket_Girls_tipsanchor_txt,Beri tips kepada Host
+Rocket_Girls_GameRule_14,Tip
+g_read_swinfo_failed,Connection to server failed
+game_videoNetNotice,"Memutar video langsung akan menggunakan lalu lintas, apakah diputar?"
+game_Videoswitch,Sakelar suara
+baccarat_player_pair_H5,P Pair
+baccarat_player_side_H5,Pemain
+g_tie_H5,Seri
+baccarat_banker_side_H5,Banker
+baccarat_super6_H5,"Banker 6 poin, bayar 0,5"
+baccarat_banker_pair_H5,B Pair
+baccarat_banker_lucky6_H5,Lucky6
+baccarat_bankerDragonBonus_H5,"Banker Dragon
+Bonus"
+baccarat_customerBet_lucky_maxBetRate_H5,MAX
+baccarat_playerDragonBonus_H5,"Pemain Dragon
+Bonus"
+baccarat_big_H5,Besar
+baccarat_small_H5,Kecil
+baccarat_bankerOdd_H5,"Banker
+Ganjil"
+baccarat_bankerEven_H5,"Banker
+Genap"
+baccarat_playerOdd_H5,"Pemain
+Ganjil"
+baccarat_playerEven_H5,"Pemain
+Genap"
+dt_dragon_H5,Naga
+dt_tiger_H5,Harimau
+game_tie_H5,Seri
+DT_customerBet_Dragon_odd_H5,"Dragon
+Ganjil"
+DT_customerBet_Dragon_even_H5,"Dragon
+Genap"
+DT_customerBet_Tiger_odd_H5,"Tiger
+Ganjil"
+DT_customerBet_Tiger_even_H5,"Tiger
+Genap"
+DT_customerBet_Dragon_black_H5,"Dragon
+Black"
+DT_customerBet_Dragon_red_H5,"Dragon
+Red"
+DT_customerBet_Tiger_black_H5,"Tiger
+Black"
+DT_customerBet_Tiger_red_H5,"Tiger
+Red"
+Baccarat_gamematch,"Pertandingan sedang berlangsung, marilah bermain bersama!"
+customerBet_message,Minimal memilih %s area bet
+Vertical_mode,Portrait
+Horizontal_mode,Landscape
+g_triple_simple,T
+game_Dominanthand,Tangan dominan
+game_Dominanthand_Left,Tangan kiri
+game_Dominanthand_Right,Tangan kanan
+message_01,Anda dapat mengatur tangan dominan Anda dalam pengaturan
+game_Experience,Nikmati game kemudian upgrade
+game_operating,Membuatmu lebih lancar dalam pengoperasian
+game_ScreenSetting,Pengaturan Layar
+BANKER_Win,"BANKER
+Menang"
+PLAYER_Win,"PEMAIN
+Menang"
+Dragon_Win,"Naga
+Menang"
+Tiger_Win,"Harimau
+Menang"
+g_youAreHere,Kamu di sini
+message_02,"Bos, Selamat datang~"
+message_03,Semoga bet Anda beruntung
+message_04,"Bos, mari bermain bersama!"
+message_05,"Semoga beruntung, Bos"
+roulette_Sidenumbers_H5,Nomor sisi
+game_nameNotSame,Nama panggilan tidak boleh sama dengan yang asli
+game_Videoswitch_ON,Nyalakan suara
+game_Videoswitch_OFF,Matikan suara
+forh5_totalbet_banker,B
+forh5_totalbet_player,P
+forh5_totalbet_dragon,D
+forh5_totalbet_tiger,T
+forh5_totalbet_Tie,TIE
+game_repayout,Pembayaran ulang
+game_modifynickname,Mengganti nama julukan
+fortunewheel_bettingtimelimit,Waktu bet Richness Wheel game
+fortunewheel_bettingtimelimit_1,"Ruangan Richness Wheel Game memberikan 18 detik waktu bet. Setelah 18 detik, pemain tidak dapat memasang taruhan lagi."
+game_customchips,Silakan masukkan jumlah nilai chip
+lobby_errormessage,"Mohon maaf, tidak ada ruangan yang cocok saat ini"
+Currency_BCH,BCH
+Currency_MBCH,MBCH
+Currency_MLTC,MLTC
+errormessage_misstoken,Reconnect gagal! Klik untuk konfirmasi percobaan ulang (verifikasi gagal)
+errormessage_connectfail,"Koneksi server gagal, jaringan internet tidak stabil"
+errormessage_reLoginfail,"Upaya koneksi gagal, jaringan internet tidak normal"
+errormessage_loginerror,"Permintaan verifikasi gagal, silakan coba ulang"
+Watcher_verifying,Watcher verifying
+Watcher_entered,Watcher entered the room.
+Watcher_left,Watcher left the room.
+Verification_success,Verification success.
+Verification_failed,Verification failed. Please start the verification process again!
+g_channel_chat_8,"Transaksi yang menakjubkan, jangan berhenti!"
+g_channel_chat_9,Kaulah keberuntunganku!
+Currency_KZT,KZT
+g_channel_chat_10,"Hei, tolong melambailah!"
+forh5_roomlist_Tie,T
+Currency_TND,TND
+Currency_SGD,SGD
+Currency_CAD,CAD
+betlimit_min,Minimal
+system_initialization,Inisialisasi sistem
+Treasurechest_reciprocal,Hitung mundur %s detik
+Award_winnerslist,Daftar perolehan bonus besar
+recent_winnerslist,Daftar perolehan bonus terkini
+treasurechest_winning,Jumlah bonus
+treasurechest_Time,Jam
+treasurechest_Minute,Menit
+treasurechest_second,Detik
+treasurechest_activitycountdown,Hitung mundur event
+treasurechest_activitynotstarted,Event belum dimulai
+treasurechest_winnerlist,Daftar pemenang
+treasurechest_Open,Buka
+BANKER_win_horizontal,BANKER Menang
+PLAYER_win_horizontal,PEMAIN Menang
+Dragon_win_horizontal,Naga Menang
+Tiger_win_horizontal,Harimau Menang
+treasurechest_winnerslist_time,Waktu
+g_Roundstatus,Status ronde
+g_Openround,Membuka ronde
+g_Managerlogin,Manajer Login
+g_Shuffle,Shuffle
+g_Scan,Scan
+g_Sync,Sinkronisasi
+g_out_of_credit_user_betLimit,X
+result_same,"Nilai sama dengan ronde sebelumnya, silakan periksa hasil"
+result_notmatch,"Nilai yang dimasukkan tidak sama, silakan periksa hasil"
+treasurechest_message,"Bos, cepat pasang taruhan, jumlah terbatas, siapa cepat dia dapat"
+g_grab_the_treasure_fail,"Gagal membuka, telah direbut oleh pemain lain, coba lagi lain kali"
+scrambling_fail,Perebutan gagal
+openBox_fail,Pembukaan gagal
+daily_opened_out_limit,"Jumlah event Anda hari ini telah habis, datanglah lagi besok, bos"
+total_payout_1,Total pembayaran (termasuk pemotongan)
+game_error,"Tidak dapat koneksi ke server, game telah ditutup"
+game_error1,"Terjadi kelainan dalam jaringan internet, game telah ditutup"
+game_error2,Game telah ditutup
+Treasure_chest,Treasure Chest
+BlackJack,BlackJack Elektronik
+Currency_NOK,NOK
+Currency_NZD,NZD
+Currency_CHF,CHF
+Currency_DKK,DKK
+Currency_SEK,SEK
+Currency_ZAR,ZAR
+reward_key,"Selamat Anda sudah mendapatkan kunci, bisa langsung ke halaman event untuk menarik hadiah"
+treasurechest_gamelist,Buka Treasure Chest
+insurance_amount,Insurance amount
+hand1,Kartu Tangan 1
+hand2,Kartu Tangan 2
+g_scrambling_sys_fail,Perebutan gagal
+g_scrambling_no_active_event,Perebutan gagal
+g_scrambling_channel_deny,Perebutan gagal
+g_scrambling_user_black,Perebutan gagal
+g_scrambling_box_not_ready,Perebutan gagal
+g_scrambling_not_found_score,Perebutan gagal
+g_scrambling_over_daily_user_limit,"Jumlah event Anda hari ini telah habis, datanglah lagi besok, bos"
+g_scrambling_token_sys_fail,Perebutan gagal
+g_scrambling_token_is_used,Perebutan gagal
+g_scrambling_token_verify_fail,Perebutan gagal
+g_scrambling_token_event_end,Perebutan gagal
+g_scrambling_token_box_not_ready,Perebutan gagal
+g_scrambling_token_subevent_end,Perebutan gagal
+g_scrambling_token_not_key_info,Perebutan gagal
+g_openBox_sys_fail,Pembukaan gagal
+g_openBox_no_active_event,Pembukaan gagal
+g_openBox_channel_deny,Pembukaan gagal
+g_openBox_user_black,Pembukaan gagal
+g_openBox_box_not_ready,Pembukaan gagal
+g_openBox_not_channel_info,Pembukaan gagal
+g_openBox_no_supprot,Pembukaan gagal
+g_openBox_not_found_score,Pembukaan gagal
+g_openBox_over_daily_user_limit,Pembukaan gagal
+g_openBox_token_sys_fail,Pembukaan gagal
+g_openBox_box_no_more_or_fail,Pembukaan gagal
+g_openBox_box_no_more,Pembukaan gagal
+g_openBox_box_type_fail,Pembukaan gagal
+g_openBox_day_box_type_no_more,Pembukaan gagal
+g_openBox_box_inc_fail,Pembukaan gagal
+g_openBox_reward_insert_fail,Pembukaan gagal
+PLAYER_BJ,PLAYER
+Surrender_BJ,Surrender
+tie_BJ,tie
+game_credi_value,Jumlah taruhan
+Server_reconnecting,Server sedang mencoba koneksi ulang
+BJ_Description_1,Game objectives
+BJ_Description_2,Get a bigger hand than the dealer without going over 21 points.
+BJ_Description_4,How the game works
+BJ_Description_5,"Each player is dealt 1 card face up in order from seat 1 to seat 7. The dealer receives their card last, which is face up as well."
+BJ_Description_6,"The second card is dealt to each player face up in the same order. The dealing phase is complete once all players receive their second cards. (Before the dealer receives their second card, they must wait until all players have finished their turns.)"
+BJ_Description_7,"After all initial cards have been dealt, each player is given the opportunity to increase the points of their hands."
+BJ_Description_8,"The order is the same as the initial card dealing. On a player's turn, they may choose to stand (receive no more cards) or hit (ask for 1 or more cards)."
+BJ_Description_9,"If the player chooses to stand, their turn ends and the final number of points is calculated based on the cards in the player's hand."
+BJ_Description_10,"If the hand exceeds 21 points, the hand is called a bust, and the player loses the bet immediately. Otherwise, the player's bet is settled when the dealer's hand is completed."
+BJ_Description_11,"If the dealer's first card is an Ace of any suit, only the insurance bet option will be available to the player after the second card is dealt. The game will continue regardless of whether the player buys insurance, which will be settled during the dealer’s drawing phase."
+BJ_Description_12,"If the initial two cards add up to 21 points, it is called a blackjack. You cannot hit when you have 21 points. The dealer draws their second card after all players have completed their actions."
+BJ_Description_13,"If the dealer's hand is a blackjack, an insurance bonus is awarded to the player who purchased insurance; if a player’s hand is a blackjack as well, it is deemed a tie. Players who do not have a hand with a blackjack lose the round."
+BJ_Description_14,"If the dealer does not have a blackjack, players who bought insurance lose their insurance bet. Afterward, the dealer stands or hits based on the drawing strategy."
+BJ_Description_15,"If the dealer's hand exceeds 21, the hand is called a bust, and all players who have not busted win."
+BJ_Description_16,"If the dealer's stands without a bust, each player's hand is compared to the dealer's. If a player's hand is closer to a 21 than the dealer's, the player wins. If the dealer is closer, the player loses. If the player and dealer have the same number of points, it is a tie (and a draw)."
+BJ_Description_17,"After all bets have been settled, the dealer announces the start of the next round of betting."
+BJ_Description_18,Cards
+BJ_Description_19,"The game is played with a total of 7 player seats as well as 1 dealer seat, using a total of 8 decks of cards."
+BJ_Description_20,"J, Q, and K count as 10 points. Aces count as 1 or 11 points, and other cards are counted according to the number on the card."
+BJ_Description_21,"After a player stands, hands containing 1 or more Aces are counted at their maximum value, provided they do not exceed 21 points."
+BJ_Description_22,"If a blue card appears in the round, the deck will be reshuffled for the next round."
+BJ_Description_23,Drawing strategy
+BJ_Description_24,Players automatically draw cards
+BJ_Description_25,"When the player's turn runs out of time, the system will automatically draw for the player's hand according to the drawing strategy."
+BJ_Description_26,"If a player's hand has 11 points or less, the system will automatically choose hit for the player."
+BJ_Description_27,"If the number of points in the player's hand is higher than 11, the system will consider the hand to be suspended automatically."
+BJ_Description_28,The rules for dealers drawing differ from those of the player
+BJ_Description_29,Dealers hit when their hand is 16 or less.
+BJ_Description_30,They stand when the count is 17 or higher.
+BJ_Description_31,"A soft hand is one in which the Aces can be counted as either 1 or 11, and the hand never exceeds 21. A hard hand is one in which all the Aces can be counted as only 1 to avoid a hand exceeding 21."
+BJ_Description_32,Payout
+BJ_Description_33,"When the initial two cards have a total of 21 points, it is called a blackjack (which is not counted after the Aces have been split) and is paid out at 3 to 2 (stake) as long as the dealer does not have a blackjack."
+BJ_Description_34,"If both the player and dealer have blackjacks, it is a tie."
+BJ_Description_35,Blackjack wins over a hand of 21 points consisting of 3 or more cards.
+BJ_Description_36,All other winning bets pay out at 1 to 1.
+BJ_Description_37,Dealer and player hands with the same points are deemed ties with no winners or losers.
+BJ_Description_38,"A hand with more than 21 points is a bust, and if both the player and dealer bust, it is a tie."
+BJ_Description_39,Exit rules
+BJ_Description_40,"Players are not allowed to leave the table if they have already placed a bet; they must wait until the break at the end of the round before they can click the ""Back to lobby"" button to leave the table."
+BJ_Description_41,Surrender
+BJ_Description_42,"After each hand is dealt, players can choose to ""surrender""; if a player chooses to surrender, their round ends and they lose half of their bet."
+BJ_Description_43,INSURANCE BET
+BJ_Description_44,"If the dealer's initial first card is an Ace, only the insurance bet option is available to the player after the second card is dealt."
+BJ_Description_45,"If a player chooses to buy insurance, they pay half the amount of their bet as insurance. and the dealer then checks to see if the player has any insurance. The dealer receives their second card after all players complete their actions."
+BJ_Description_46,"If the second card is a J, Q, K, or 10, the player wins 2x the insurance bet."
+BJ_Description_47,"If the second card is not a J, Q, K, or 10, the player loses the insurance bet."
+BJ_Description_48,"If the player chooses not to buy insurance, the game continues."
+BJ_Description_49,"Even if the player gets a blackjack, they can still buy insurance."
+BJ_Description_50,SPLIT
+BJ_Description_51,"When dealt with a pair of cards of the same value, it can be split into two hands, each with the same stake as the original wager."
+BJ_Description_52,"If a hand is split, each hand that is split automatically receives a second card."
+BJ_Description_53,Players may then stand or hit for 1 or more cards to improve each hand.
+BJ_Description_54,"After the player chooses to stand for their first hand, they may choose to stand or hit for the second hand."
+BJ_Description_55,Exception for splitting Aces:
+BJ_Description_56,"If splitting Aces, each hand will only receive 1 card. There is no option to hit or double down."
+BJ_Description_57,"In addition, if a hand with two cards equals 21 points after splitting Aces, this does not count as a blackjack and cannot beat the dealer's blackjack."
+BJ_Description_58,Split hands cannot be split again.
+BJ_Description_59,HIT
+BJ_Description_60,"After the player chooses ""hit,"" the system will deal a card to the player's hand."
+BJ_Description_61,All cards are shown face up in the player's hand.
+BJ_Description_62,STAND
+BJ_Description_63,"After the player selects ""stand,"" the game is over and the player only needs to wait for the dealer to reveal their cards."
+BJ_Description_64,DOUBLE DOWN
+BJ_Description_65,"After the first two cards are dealt, the player may choose to double down."
+BJ_Description_66,his means that the player will double their original bet amount and must draw 1 card and 1 card only.
+g_join_game_1,Ikut Pertandingan
+g_tie_forpc35roomlistitem,Tie
+g_player_simple_forpc35roomlistitem,P
+g_banker_simple_forpc35roomlistitem,B
+g_dragon_simple_forpc35roomlistitem,D
+g_tiger_simple_forpc35roomlistitem,T
+g_tie_dt_forpc35roomlistitem,Tie
+g_openBox_reward_incMoney_fail,Pembukaan Treasure Chest gagal
+setting_Doesnotsupport,"Versi non-seluler, tidak mendukung fitur ini"
+treasurechest_message1,Sesi ini berakhir
+goodRoad_1,Jalan 1
+goodRoad_2,Jalan 2
+goodRoad_3,Jalan 3
+goodRoad_4,Jalan 4
+goodRoad_5,Jalan 5
+goodRoad_6,Jalan 6
+goodRoad_7,Jalan 7
+goodRoad_8,Jalan 8
+goodRoad_9,Jalan 9
+goodRoad_10,Jalan 10
+blackjack_live,Real BlackJack
+LuckyBag,Lucky Bag
+MoneyTree,Pohon Uang
+Zongzi,Bakcang
+GoldenFruit,Buah Emas
+GoldenElephant,Gajah Emas
+luckybag_Open,Buka
+sa_gamename,SABONG
+sa_bet_meron,MERON
+sa_bet_wala,WALA
+sa_bet_draw,DRAW
+sa_status_open,OPEN
+sa_status_lastcall,LAST CALL
+sa_status_closed,CLOSED
+sa_status_cancel,CANCEL
+sa_rule_1,Betting window is 3-5 mins
+sa_rule_2,"There are 3 game status:OPEN, LAST CALL and CLOSED. Once betting is CLOSED, bets will not be accepted"
+sa_rule_3,Payout odds:% based on total bet per side
+sa_rule_4,Example: 100 bet at 180% wins 180
+sa_rule_5,"If fight is a draw, bets are retuned"
+sa_rule_6,"DRAW WINS x8, max.DRAW bet per player:%s/fight"
+sa_rule_7,Fight with odds below 107% will be CANCEL
+sa_meron_abridge,M
+sa_wala_abridge,W
+sa_draw_abridge,D
+bjl_queue_1,Antrian masuk
+bjl_queue_2,Antri game
+bjl_queue_3,Jumlah antrian saat ini
+bjl_queue_4,Anda belum masuk antrian
+bjl_queue_5,Ikut antri
+bjl_queue_6,"Didepan Anda masih ada %s orang, harap sabar menunggu"
+bjl_queue_7,Batalkan antrian
+bjl_queue_8,Harap segera memasuki game
+bjl_queue_9,Jika dalam detik tidak melakukan operasi apapun maka akan dianggap batal
+bjl_queue_10,Segera masuk
+bjl_queue_11,Batal masuk
+bjl_queue_12,Sebentar lagi masuk
+sa_cancel_payout,Refund bet
+deposit,Top-up
+withdraw,Penarikan
+game_playback_message,"Video sedang dalam pengubahan file, harap coba ulang sebentar lagi"
+video_setting,Pengaturan video
+video_address,Jalur
+video_quality,Video
+BJui_zhuoID,Table ID:
+BJui_xiane,Limit:
+BJui_fangjID,Room :
+BJui_paijID,Game :
+BJui_heg,Dealer:
+BJui_zongxz,Your Total Bet:
+BJui_hegp,Dealer's Hand
+BJtishi_xiuxi,Resting
+BJtishi_touzhu,Placing bet
+BJtishi_weihu,Under maintenance
+BJtishi_kaipai,Revealing cards
+BJtishi_xipai,Shuffling
+BJtishi_xiazhu,Placing bet
+BJtishi_fapai,Dealing cards
+BJtishi_toux,Surrendering
+BJtishi_maibx,Buy insurance
+BJtishi_fay,Seat * taking turn
+BJtishi_zhuangbp,Dealer drawing
+BJtishi_paicai,Payout
+BJtishi_qingrz,Please take a seat
+BJtishi_qingxz,Place your bet now
+BJtishi_qingtx,Choose whether to surrender
+BJtishi_qingbx,Do you want to spend * on insurance?
+BJtishi_qingcz,Please select an action
+BJtishi_qingdd,Please wait for the next round
+BJui_dizhu,Ante
+BJui_duizi,Perfect Pair
+BJui_21jia3,21+3
+BJui_pangz,Side Bets
+BJui_chex,UNDO
+BJui_xuya,REPEAT
+BJui_queren,Confirm Bet
+BJui_yaop,HIT
+BJui_tingp,STAND
+BJui_fenp,SPLIT
+BJui_shuangb,DOUBLE
+BJui_shi,YES
+BJui_fou,NO
+BJui_shez_cm,Chip Settings
+BJui_shez_pangz,Blackjack Side Bet Settings
+BJui_shez_quer,(Please confirm your side bet settings.)
+BJui_shez_jiab,Player Doubles:
+BJui_shez_dij,Double my ante
+BJui_shez_dib,Do not double my ante
+BJui_shez_fenp,Player Splits:
+BJui_shez_ewai,Place additional bets on the 2 hands
+BJui_shez_zuo,Only place a bet on the left hand
+BJui_shez_qued,Confirm
+BJbangz_wanf_peil1,Play odds
+BJbangz_wanf_shoup,Hand
+BJbangz_wanf_shil,Hand Example
+BJbangz_wanf_peil2,Odds
+BJbangz_wanf_BJ,Blackjack
+BJbangz_wanf_yingp,Winning Hand
+BJbangz_wanf_tiaoj,Player>Dealer and≤ 21
+BJbangz_wanf_baox,Insurance
+BJbangz_wanf_zBJ,Dealer Blackjack
+BJbangz_wanf_duiz1,Perfect Pair: Player's initial two cards make a pair
+BJbangz_wanf_duiz2,Perfect Pair
+BJbangz_wanf_duiz3,Same-colored Pair
+BJbangz_wanf_duiz4,Mixed Pairs
+BJbangz_wanf_zuh1,21+3: Player's first 2 cards+Dealer's first card
+BJbangz_wanf_zuh2,Flush Three of a Kind
+BJbangz_wanf_zuh3,Straight Flush
+BJbangz_wanf_zuh4,Three of a Kind
+BJbangz_wanf_zuh5,Straight
+BJbangz_wanf_zuh6,Flush
+fangjian_xiane,Batas
+fangjian_mingc,Nama
+fangjian_xiao,Min Bet
+fangjian_da,Max Bet
+BJtishi_xinchengg,Reconnection to game successful
+BJtishi_xinshib,Reconnection to game failed
+BJtishi_wuqian,Insufficient coins. Unable to participate.
+BJtishi_buz,Insufficient funds
+BJtishi_paipf,Queuing too frequently. Please try again later.
+BJtishi_youkpd,Guest accounts cannot queue. Please log in to your game account.
+BJtishi_feiqi,The game has been canceled
+BJtishi_chongxin,Please select a new table to play
+BJtishi_cishum,Maximum number of spectators reached
+BJtishi_wangl,Network error. Please check your connection and try loggin in.
+BJtishi_qit,The room is under maintenance. Please enter other rooms to play.
+BJtishi_paijz,You are in a game and cannot leave until it ends.
+BJtishi_chengg,Bet Successful
+BJtishi_shib,Bet Failed
+BJtishi_yidengl,Your account is logged in on another device.
+BJtishi_chaoshi,Betting period exceeded. You have been removed from the table.
+BJtishi_chaofw,Bet limit exceeded.
+BJtishi_3ju,You have not placed a bet for * rounds. Please place a bet within * rounds or you will be removed from the table.
+BJtishi_youk,You are logged in as a guest and cannot use this feature.
+BJtishi_guanz,You have spectated * games. Note that you will be removed from the room if you spectate * consecutive games.
+BJtishi_qinglk,You have failed to place a bet for * consecutive games and have been removed from the table.
+BJbangz_shuom,Game Explanation
+BJbangz_shengc,How to Win
+BJbangz_shengc_ms,"To win the game, the player must have a hand that is larger than the dealer's but does not exceed 21 points. The player does not need to consider the hands of other players and only compares their points with the dealer's."
+BJbangz_liuc,Round Procedure
+BJbangz_liuc1,1. Players must confirm their bets within the specified betting period.
+BJbangz_liuc2,"2. Once the betting period ends, the first card is dealt clockwise from the first player on the left of the dealer. The first card is dealt face up to each player."
+BJbangz_liuc3,"3. Lastly, the dealer gives 1 card face up to themselves."
+BJbangz_liuc4,"4. Next, the second card is dealt to each player also face up."
+BJbangz_liuc5,5. The dealer then asks each player to take actions until they stand before moving on to the next player.
+BJbangz_liuc6,"6. When all players have completed their actions, the dealer draws their own second card. The dealer must stop at 17 or more points and draw until they are over 16."
+BJbangz_liuc7,"7. If your points are closer to 21 than the dealer's, or if the dealer busts, the player is deemed the winner."
+BJbangz_liuc8,"8. If your hand is equal in value to the dealer's, the result is a tie."
+BJbangz_liuc9,9. The dealer recycles the used cards.
+BJbangz_caoz,Player Actions
+BJbangz_caoz1,"1. Surrender: After the dealer finishes dealing cards, players receive a chance to surrender. They may decide to surrender based on the value of their hand, in which case they will lose half of their bet."
+BJbangz_caoz2,"2. Insurance: If the dealer's first card is an ace, players get a chance to buy insurance after the surrendering period. Players can use half of their initial bet amount to purchase insurance."
+BJbangz_caoz2_a,"If the dealer gets a blackjack, the insured player wins the insurance bet."
+BJbangz_caoz2_b,"If the dealer's hand is not a blackjack, the player loses the insurance money."
+BJbangz_caoz2_c,Side-betting players do not get insurance along with the participating player.
+BJbangz_caoz3,"3. Hit: Players decide whether to hit based on their hand. The dealer provides one face-up card at a time until the player chooses to stand, or when their hand reaches or exceeds 21 points."
+BJbangz_caoz4,4. Double: Players may choose to double their bet but will have to draw one more and only one more card afterwards. Players cannot double their bets after splitting their cards.
+BJbangz_caoz5,"5. Splitting: When a player's initial two cards are of the same value, they may split their cards into two separate hands. The bet amount for each hand is the same as the original wager."
+BJbangz_caoz5_1,"After the player chooses to split, the dealer deals cards to the player's first hand on their right."
+BJbangz_caoz5_2,The dealer asks the player if they want to hit or stand for the right hand.
+BJbangz_caoz5_3,"After finishing the actions for the first hand on the right, the dealer moves on to the second hand on the left, asking the player if they want to hit or stand."
+BJbangz_caoz5_4,Splitting is not allowed after doubling down.
+BJbangz_caoz5_5,"If the player has a pair of aces, they can only hit once per hand afterwards."
+BJbangz_caoz5_6,"Splitting cards can only be done once, and the dealer must deal a card afterwards."
+BJbangz_caoz5_7,Only seated players can choose to split.
+BJbangz_caoz5_8,"If the player gets a 10-point card after splitting aces, the hand is not considered as a blackjack and is settled as a normal 21."
+BJbangz_caoz6,6. Stand: Choose not to receive any more cards and compare your current hand with the dealer's.
+BJbangz_tishi,*Friendly Reminders:
+BJbangz_tishi_ms,"If a player exceeds the time limit for their turn and has not busted, the dealer will deal the player a card until their hand is greater than 11 points."
+BJbangz_wanfa,How to Play
+BJbangz_wanfa_ms,"The game is played with 8 standard 52-card decks, totaling 416 cards."
+BJbangz_paiz,Card Values:
+BJbangz_paiz1,Number cards (2-10) are played at face value.
+BJbangz_paiz2,"Face cards (J, Q, K) are worth 10."
+BJbangz_paiz3,"The value of aces is either 1 or 11, whichever is more favorable."
+BJbangz_guiz,Aturan permainan
+BJbangz_guiz1,1. Use 8 decks of cards.
+BJbangz_guiz2,2. The dealer must stand at 17 points or higher.
+BJbangz_guiz3,3. You can double down for any 2 cards at the first time of dealing.
+BJbangz_guiz4,4. You may split the initial 2 cards you receive if they have the same value.
+BJbangz_guiz5,5. You can only split once.
+BJbangz_guiz6,"6. If the initial 2 cards are aces, you may only hit once after splitting."
+BJbangz_guiz7,7. You can't double down after splitting.
+BJbangz_guiz8,"8. When the dealer gets an ace, players receive an option to buy insurance."
+BJbangz_guiz9,9. Blackjack pays out at 3:2
+BJbangz_guiz10,10. Insurance bets pay out at 2:1
+BJbangz_guiz11,11. Surrendering takes half of bet
+BJbangz_guiz12,"12. When the player's hand is equal in value to the dealer's, the result is a tie."
+BJbangz_paizhi,Card Value
+BJbangz_paizhi1,Blackjack
+BJbangz_paizhi2,When the initial two cards make up 21 points (BJ).
+BJbangz_paizhi3,21 Points
+BJbangz_paizhi4,When a hand consisting of more than 2 cards has a value of 21 points or when the player gets a 21-point hand after splitting.
+BJbangz_paizhi5,Any Points
+BJbangz_paizhi6,"The player wins if they are closer to 21 than the dealer, or if the dealer busts."
+BJbangz_paizhi7,Tie
+BJbangz_paizhi8,"If both the dealer and the player receive a blackjack or have the same total value, the game is considered a draw and the initial and double-downed bets are returned."
+BJbangz_paizhi9,Bust
+BJbangz_paizhi10,"If the cards in a player's hand add up to more than 21 points, the player loses the initial and double-downed bets."
+BJbangz_peil,Perbandingan pembayaran
+BJbangz_peil_ms,Please tap the odds details button on the game screen for more information
+BJbangz_zhuyi,Important Notes
+BJbangz_zhuyi1,1. All players taking a seat must place an ante bet before they can bet on perfect pairs and 21+3.
+BJbangz_zhuyi2,"2. The repeat bet feature allows you to place the ante, perfect pair, and 21+3 bets together."
+BJbangz_zhuyi3,"3. If all players in the game blackjack, the dealer will only draw 1 card and end the round, regardless of whether the dealer reaches 17 points or not."
+BJbangz_zhuyi4,"4. If all players in the game bust, the dealer immediately ends the game, regardless of whether the dealer reaches 17 points or not."
+BJbangz_zhuyi5,"5. Limits are separated into ante, perfect pair, 21+3 and side bets. Please check in the limits screen."
+BJbangz_zhuyi6,"6. If an error occurs during the game such as a network disconnection or freezing, the system will automatically cancel the game and initiate a pay out to all betting players."
+BJbangz_pangz,Side Bets
+BJbangz_pangz1,1. Unseated players can place side bets for all seats.
+BJbangz_pangz2,2. Seated players are allowed to place side bets on seats other than their own.
+BJbangz_pangz3,"3. The odds for side betting players are the same as seated players', and are determined by the hands in the corresponding seat."
+BJbangz_pangz4,4. The following are actions taken by the seated player and the side better's corresponding actions:
+BJbangz_pangz4_1,Surrender: Side better surrenders along with the seated player and gets half of the bet amount back.
+BJbangz_pangz4_2,Buy Insurance: Side better does not buy insurance with the player.
+BJbangz_pangz4_3,Double: Side better can choose whether to double.
+BJbangz_pangz4_4,Split: Side better can choose whether to split. The system will settle bets based on the first hand by default.
+BJseat,Kursi
+BJ_Queuedrequest,"Fungsi antri hanya dapat digunakan dalam versi vertikal,
+ Apakah yakin mau ganti menjadi versi horizontal?
+ Jika iya, maka akan membatalkan permintaan antri Anda, terima kasih"
+BJ_warning_server_unavailable,"Server sedang dalam pemeliharaan, silahkan coba ulang setelah beberapa saat"
+for_roomnotsupport_message,Ruangan tidak mendukung
+BJ_meassage,"Setelah masuk ke Real Black Jack, game Anda saat ini akan langsung ditutup, apakah Anda yakin?"
+message_06,Niu Niu Coming Back
+Sicbo_message,Sicbo telah live!
+BJtishi_dairu,Menunggu kursi
+BJtishi_dashangx,"Terlalu banyak orang yang antri saat ini, silakan coba lagi nanti"
+BJ_meassage1,Apakah Anda yakin ingin membatalkan antrian kali ini?
+BJ_meassage2,Apakah Anda yakin ingin membatalkan untuk masuk?
+g_sw_token_invalid_1,"Percakapan berakhir, silakan login ulang"
+game_no_player_to_bet,Tidak ada pemain yang bet di ronde ini
+BJ_meassage3,"Kursi akan disediakan untuk Anda selama %s ronde
+Jika tidak bergabung di meja judi dalam %s ronde, akan dianggap batal"
+BJ_meassage4,"Fungsi Antri hanya terbuka untuk Real Blackjack, semua game dapat melakukan antrian untuk memasuki Real Blackjack melalui halaman antri"
+BJ_meassage5,"Selama mengantri, Anda tetap dapat memainkan game lain, tidak perlu menunggu dalam game Real Blackjack"
+BJ_meassage6,"Ketika antrian selesai, tidak peduli Anda sedang berada di halaman game apapun, sistem akan secara otomatis memberitahu Anda untuk masuk"
+BJ_meassage7,"Ketika antrian berhasil, Anda dapat memilih “Segera masuk” atau “Masuk nanti” ke kursi"
+BJ_meassage8,"Jika memilih “Masuk nanti”, kursi di meja judi akan disediakan untuk Anda hingga akhir ronde berikutnya, selama periode tersebut, Anda juga dapat menggunakan tombol “Segera masuk” untuk duduk"
+BJtishi_5chip,Harus memasang 5 buah chip
+Re-election_chip,Silakan pilih ulang chip untuk bet
+g_warning_network_error_1,"Koneksi jaringan tidak tersedia, silahkan cek pengaturan anda"
+video_message,"Terputus dari server video, sedang menyambung kembali"
+video_message_01,"Sinyal video tidak stabil, apakah mau mengganti tingkat resolusi demi meningkatkan kelancaran?"
+message_07,Game Mesin Slot baru sedang menunggumu untuk memainkannya
+test,test
