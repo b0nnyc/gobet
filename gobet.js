@@ -1,4 +1,4 @@
-const _GobetServer = "https://172.104.180.176:3300";
+const _GobetServer = "https://li1771-176.members.linode.com:3300";
 var auth = "";
 var session = "";
 var timerID = 0;
